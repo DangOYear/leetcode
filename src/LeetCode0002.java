@@ -2,7 +2,7 @@ package src;
 
 import baseclass.ListNode;
 
-public class LeetCode1002 {
+public class LeetCode0002 {
     /**
      * Definition for singly-linked list.
      * public class ListNode {
