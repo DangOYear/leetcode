@@ -5,7 +5,7 @@ import java.util.*;
 
 
 
-public class LeetCode1001 {
+public class LeetCode0001 {
     class Solution {
         public int[] twoSum(int[] nums, int target) {
             int[] res = new int[2];
