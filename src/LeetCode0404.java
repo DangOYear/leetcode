@@ -1,0 +1,33 @@
+package src;
+
+
+import baseclass.TreeNode;
+
+public class LeetCode0404 {
+    /**
+     * Definition for a binary tree node.
+     * public class TreeNode {
+     *     int val;
+     *     TreeNode left;
+     *     TreeNode right;
+     *     TreeNode(int x) { val = x; }
+     * }
+     */
+    class Solution {
+        int res;
+        public int sumOfLeftLeaves(TreeNode root) {
+            res = 0;
+            dfs(root);
+            return res;
+        }
+
+        void dfs(TreeNode node) {
+            if (node != null) {
+                if (node.left == null && node.right == null)
+                    res += node.val;
+                dfs(node.left);
+                dfs(node.right);
+            }
+        }
+    }
+}
