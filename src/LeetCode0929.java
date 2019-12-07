@@ -14,7 +14,7 @@ public class LeetCode0929 {
                 if (local.contains("+")) {
                     local = local.substring(0, local.indexOf('+'));
                 }
-                local = local.replaceAll(".", "");
+                local = local.replaceAll("\\.", "");
                 address.add(local + rest);
             }
 
