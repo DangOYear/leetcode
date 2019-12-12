@@ -6,7 +6,7 @@ import baseclass.Node;
 import java.util.ArrayList;
 import java.util.List;
 
-public class LeetCode0589 {
+public class LeetCode0590 {
     /*
 // Definition for a Node.
 class Node {
@@ -26,19 +26,21 @@ class Node {
 };
 */
     class Solution {
-        List<Integer> res;
-        public List<Integer> preorder(Node root) {
+        public List<Integer> res;
+        public List<Integer> postorder(Node root) {
             res = new ArrayList<>();
-            dfs(root);
+            if (root == null)
+                return res;
+            postTravel(root);
+            res.add(root.val);
             return res;
         }
 
-        void dfs(Node node) {
+        void postTravel(Node node) {
             if (node != null) {
-                res.add(node.val);
-                List<Node> children = node.children;
-                for (Node c:children) {
-                    dfs(c);
+                for (Node n:node.children) {
+                    postTravel(n);
+                    res.add(n.val);
                 }
             }
         }
