@@ -22,4 +22,13 @@ public class LeetCode0001 {
         }
     }
 
+    public static void main(String[] args) {
+        LeetCode0001.Solution solution = new LeetCode0001().new Solution();
+        int[] nums = {2, 7, 11, 15};
+        int target = 9;
+        int[] res = solution.twoSum(nums, target);
+        for (int x:res)
+            System.out.println(x);
+    }
+
 }

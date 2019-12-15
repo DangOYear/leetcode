@@ -16,10 +16,10 @@ public class LeetCode1026 {
      */
     class Solution {
         int rootValue;
-        int maxDiffr
+
         public int maxAncestorDiff(TreeNode root) {
             rootValue = root.val;
-
+            return 1;
         }
     }
 }
