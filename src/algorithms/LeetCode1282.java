@@ -10,7 +10,6 @@ public class LeetCode1282 {
 
             for (int i = 0; i < groupSizes.length; i++) {
                 if (map.containsKey(groupSizes[i])){
-
                 }
             }
             return res;
