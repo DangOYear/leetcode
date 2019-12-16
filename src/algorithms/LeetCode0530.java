@@ -16,11 +16,11 @@ public class LeetCode0530 {
      */
     class Solution {
         int minDifference;
-        int pre;
+        //int pre;
         public int getMinimumDifference(TreeNode root) {
 
             minDifference = Integer.MAX_VALUE;
-            pre = Integer.MAX_VALUE - (root.val);
+            int pre = 0;
             dfs(root, pre);
             return minDifference;
         }
@@ -28,7 +28,9 @@ public class LeetCode0530 {
         void dfs(TreeNode node, int pre) {
             if (node != null) {
                 dfs(node.left, pre);
-                minDifference = Math.min(minDifference, node.val - pre);
+                if (pre != 0)
+                    minDifference = Math.min(minDifference, node.val - pre);
+                pre = node.val;
                 dfs(node.right, pre);
             }
         }
