@@ -15,7 +15,7 @@ public class LeetCode0993 {
      */
     class Solution {
         public boolean isCousins(TreeNode root, int x, int y) {
-
+            return true;
         }
     }
 }
