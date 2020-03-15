@@ -1,31 +1,59 @@
 package src.algorithms;
 
 public class LeetCode0008 {
-
-    class Solution {
-        public int myAtoi(String str) {
-            //str = str.trim();
-            int res = 0;
-            boolean isNegative = false;
-
-
-            for (int i = 0; i < str.length(); ++i) {
-                if (str.charAt(i) == '-')
-                    isNegative = true;
-                if (isDigit(str.charAt(i))) {
-                    res = res * 10 + str.charAt(i) - '0';
-                }
+class Solution {
+    public int myAtoi(String str) {
+        int strLen = str.length();
+        
+        int index = 0;
+        int res = 0;
+        while (index < strLen) {
+            if (str.charAt(index) != ' ')
+                break;
+            index++;
+        }
+        
+        if (index == strLen) {
+            return 0;
+        }
+        
+        
+        int sign = 1;
+        
+        char fistChar = str.charAt(index);
+        
+        if (firstChar == '+') {
+            index++;
+            sign = 1;
+        } else if (firstChar == '-') {
+            index++;
+            sign = -1;
+        }
+        
+        
+        while (index < strLen) {
+            char curChar = str.charAt(index);
+            
+            if (curChar > '9' || curChar < '0'){
+                break;
             }
-
-            return isNegative?-res:res;
+             if (res > Integer.MAX_VALUE / 10 || (res == Integer.MAX_VALUE / 10 && (curChar - '0') > Integer.MAX_VALUE % 10)) {
+                return Integer.MAX_VALUE;
+            }
+            if (res < Integer.MIN_VALUE / 10 || (res == Integer.MIN_VALUE / 10 && (curChar - '0') > -(Integer.MIN_VALUE % 10))) {
+                return Integer.MIN_VALUE;
+            }
+            
+            res = res * 10 + sign * (curChar - '0');
+            index++;
+            
         }
-
-        public boolean isDigit(char ch) {
-            if (ch <= '9' && ch >= '0')
-                return true;
-            return false;
-        }
+        
+        
+        
+        return res;
     }
+}
 
 
 }
