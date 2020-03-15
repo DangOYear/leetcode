@@ -2,8 +2,7 @@ package src.algorithms;
 
 import java.util.*;
 
-
-
+import src.algorithms.baseclass.TreeNode;
 
 public class LeetCode0098 {
 /**
