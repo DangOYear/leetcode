@@ -4,6 +4,8 @@ package src.algorithms;
 
 import src.algorithms.baseclass.TreeNode;
 
+import java.util.Stack;
+
 public class LeetCode0530 {
     /**
      * Definition for a binary tree node.
@@ -15,24 +17,23 @@ public class LeetCode0530 {
      * }
      */
     class Solution {
-        int minDifference;
-        //int pre;
         public int getMinimumDifference(TreeNode root) {
+            Stack<TreeNode> inOrder = new Stack<>();
+            int res = Integer.MAX_VALUE;
+            int pre = -1;
+            while (!inOrder.isEmpty() || root != null) {
+                while (root != null) {
+                    inOrder.push(root);
+                    root = root.left;
+                }
+                root = inOrder.pop();
+                if (pre != -1)
+                    res = Math.min(res, Math.abs(root.val - pre));
+                 pre = root.val;
 
-            minDifference = Integer.MAX_VALUE;
-            int pre = 0;
-            dfs(root, pre);
-            return minDifference;
-        }
-
-        void dfs(TreeNode node, int pre) {
-            if (node != null) {
-                dfs(node.left, pre);
-                if (pre != 0)
-                    minDifference = Math.min(minDifference, node.val - pre);
-                pre = node.val;
-                dfs(node.right, pre);
+                 root = root.right;
             }
+            return res;
         }
     }
 }

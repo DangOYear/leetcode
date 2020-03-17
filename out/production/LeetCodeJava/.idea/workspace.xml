@@ -1,132 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8da752a9-a334-4c69-922a-5ed502ed2e31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithms/LeetCode1315.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/LeetCode1282.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/LeetCode1282.java" afterDir="false" />
+    <list default="true" id="63a835fd-8ad8-4ff7-bf65-9af0134f38cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/algorithms/LeetCode0041.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/LeetCode0530.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/LeetCode0530.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0113.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="17" selection-start-line="17" selection-end-line="44" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0141.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="24" selection-start-line="18" selection-start-column="11" selection-end-line="28" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0142.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="38" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0203.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="27" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0204.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode1313.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="22" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode1304.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="18" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode1309.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode1315.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="39" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode1282.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -135,200 +17,39 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>queue.size()</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="yushengyun2013@163.com &lt;yushengyun2013@163.com&gt;" />
         <option value="ShengyunYu &lt;yushengyun2013@163.com&gt;" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0896.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0389.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0697.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0530.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0102.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0384.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0704.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0007.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0019.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0993.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0020.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0035.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0058.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0101.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0107.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode1161.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0806.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0476.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode1295.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode1302.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode1002.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode1047.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0821.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0637.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0868.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0349.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0237.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0917.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0169.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0429.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0884.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0515.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0066.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0070.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode1317.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode1299.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0111.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0693.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0121.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0083.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0112.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0113.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0141.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0142.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0203.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode0204.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode1313.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode1304.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode1309.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode1315.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/LeetCode1282.java" />
-      </list>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\LeetCodeJava\.idea" />
+      </set>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="$PROJECT_DIR$/../../software/MavenLocal" />
-        <option name="mavenHome" value="/usr/local/apache-maven-3.6.1" />
-        <option name="userSettingsFile" value="/usr/local/apache-maven-3.6.1/conf/settings.xml" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="LeetCodeJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeJava" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCodeJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCodeJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectId" id="1ZABuCArxA1aY3c4WaguI3RPBMs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579248366041" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.LeetCode1282">
-    <configuration name="LeetCode0020" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.algorithms.LeetCode0020" />
-      <module name="LeetCodeJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.algorithms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeetCode0111" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.algorithms.LeetCode0111" />
-      <module name="LeetCodeJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.algorithms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeetCode0806" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.algorithms.LeetCode0806" />
-      <module name="LeetCodeJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.algorithms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeetCode1154" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.algorithms.LeetCode1154" />
-      <module name="LeetCodeJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.algorithms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeetCode1282" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.algorithms.LeetCode1282" />
+  <component name="RunManager">
+    <configuration name="LeetCode0041" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.algorithms.LeetCode0041" />
       <module name="LeetCodeJava" />
       <extension name="coverage">
         <pattern>
@@ -342,11 +63,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LeetCode1282" />
-        <item itemvalue="Application.LeetCode0111" />
-        <item itemvalue="Application.LeetCode0806" />
-        <item itemvalue="Application.LeetCode0020" />
-        <item itemvalue="Application.LeetCode1154" />
+        <item itemvalue="Application.LeetCode0041" />
       </list>
     </recent_temporary>
   </component>
@@ -355,893 +72,87 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8da752a9-a334-4c69-922a-5ed502ed2e31" name="Default Changelist" comment="" />
-      <created>1561793806693</created>
+      <changelist id="63a835fd-8ad8-4ff7-bf65-9af0134f38cc" name="Default Changelist" comment="" />
+      <created>1584272240610</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1561793806693</updated>
-      <workItem from="1561793808185" duration="1701000" />
-      <workItem from="1574664319494" duration="805000" />
-      <workItem from="1574690537785" duration="6128000" />
-      <workItem from="1574765279720" duration="265000" />
-      <workItem from="1574826850984" duration="730000" />
-      <workItem from="1574832365717" duration="6036000" />
-      <workItem from="1575027941130" duration="6517000" />
-      <workItem from="1575163457894" duration="2713000" />
-      <workItem from="1575274754533" duration="1265000" />
-      <workItem from="1575350930324" duration="220000" />
-      <workItem from="1575697009352" duration="1173000" />
-      <workItem from="1575858105957" duration="2301000" />
-      <workItem from="1575891510091" duration="305000" />
-      <workItem from="1575949207688" duration="949000" />
-      <workItem from="1575950566491" duration="1475000" />
-      <workItem from="1575952878883" duration="109000" />
-      <workItem from="1575953702141" duration="260000" />
-      <workItem from="1576061581388" duration="918000" />
-      <workItem from="1576126720580" duration="1498000" />
-      <workItem from="1576145919651" duration="431000" />
-      <workItem from="1576377816553" duration="939000" />
-      <workItem from="1576379394618" duration="2557000" />
-      <workItem from="1576391077060" duration="738000" />
-      <workItem from="1576416140978" duration="968000" />
-      <workItem from="1576457326034" duration="2160000" />
-      <workItem from="1576460297017" duration="6939000" />
-      <workItem from="1576582657912" duration="1114000" />
-      <workItem from="1576639439941" duration="1437000" />
-      <workItem from="1578821074832" duration="7078000" />
-      <workItem from="1578929809624" duration="2606000" />
-      <workItem from="1578992945347" duration="794000" />
-      <workItem from="1579149912214" duration="2266000" />
-      <workItem from="1579157235103" duration="1951000" />
-      <workItem from="1579231814305" duration="3211000" />
+      <updated>1584272240610</updated>
+      <workItem from="1584272245642" duration="428000" />
+      <workItem from="1584272703769" duration="974000" />
+      <workItem from="1584275280600" duration="20000" />
+      <workItem from="1584275313090" duration="3000" />
+      <workItem from="1584275330873" duration="1046000" />
+      <workItem from="1584313697900" duration="4429000" />
     </task>
-    <task id="LOCAL-00001" summary="Date:20190629-1&#10;Info: 0001">
-      <created>1561795044902</created>
+    <task id="LOCAL-00001" summary="Date:20200315-1&#10;Info:0004 0005 0006 0008 0011 0098 0103 0144 0199 0230 0238 0300">
+      <created>1584272898892</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1561795044902</updated>
+      <updated>1584272898892</updated>
     </task>
-    <task id="LOCAL-00002" summary="Date:20191126-1&#10;Info:1001 1266 1267">
-      <created>1574732812359</created>
+    <task id="LOCAL-00002" summary="Date:20200315-2&#10;Info:缩进修改">
+      <created>1584275784633</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1574732812359</updated>
+      <updated>1584275784633</updated>
     </task>
-    <task id="LOCAL-00003" summary="Date:20191126-2&#10;Info:0701 0771 1002 1108">
-      <created>1574759997464</created>
+    <task id="LOCAL-00003" summary="Date:20200316-1&#10;Info:&#10;Algorithm:0150&#10;CodingInterviews:0003&#10;CrackingTheCodingInterview:0101">
+      <created>1584315652718</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1574759997464</updated>
+      <updated>1584315652718</updated>
     </task>
-    <task id="LOCAL-00004" summary="Date:20191127-1&#10;Info:0009">
-      <created>1574827389695</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1574827389695</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Date:20191127-2&#10;Info:0002 0700 0804 0832 0905 0938 1021 1221 1252">
-      <created>1574856252456</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1574856252456</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Date:20191130-1&#10;Info:0461 0617 0657 0747 0852 0977 1207 1261">
-      <created>1575080943351</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1575080943351</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Date:20191130-2&#10;Info:0100 0344 0509 0561 0965">
-      <created>1575083014144</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1575083014144</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Date:20191201-1&#10;Info:0226 0557 0728 0942 0961">
-      <created>1575166050262</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1575166050262</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Date:20191202-1&#10;Info:0933">
-      <created>1575276216626</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1575276216626</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Date:20191207-1&#10;Info:0021 0026 0027 0929">
-      <created>1575698249253</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1575698249254</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Date:20191209-1&#10;Info:0814 1281">
-      <created>1575858709444</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1575858709444</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Date:20191209-2&#10;Info:0537">
-      <created>1575862663232</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1575862663232</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Date:20191209-3&#10;Info:0876 0922">
-      <created>1575873815373</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1575873815373</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Date:20191210-1&#10;Info:1200">
-      <created>1575950180819</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1575950180820</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Date:20191210-2&#10;Info:0104 0136 0872 0877 0912">
-      <created>1575952057298</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1575952057298</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Date:20191211-1&#10;Info:1184 1189">
-      <created>1576062459382</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1576062459382</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Date:20191212-1&#10;Info:0589 0590 0654 0944">
-      <created>1576128365051</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1576128365051</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Date:20191215-1&#10;Info:0028 0559 1051 1287">
-      <created>1576378881847</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1576378881847</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Date:20191215-2&#10;Info:add database shell concurrency packages">
-      <created>1576380144176</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1576380144176</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Date:20191215-3&#10;Info:0175 0176 0595">
-      <created>1576390286584</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1576390286584</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Date:20191215-4&#10;Info:1137 1154 1290">
-      <created>1576417256772</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1576417256772</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Date:20191216-1&#10;Info:0389 0530 0535 0697 0896">
-      <created>1576460163177</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1576460163177</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Date:20191216-2&#10;Info:0102">
-      <created>1576463583138</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1576463583138</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Date:20191216-3&#10;Info:add database">
-      <created>1576483596230</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1576483596230</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Date:20191216-4&#10;Info:0007 0019 0029 0035 0058">
-      <created>1576488424685</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1576488424686</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Date:20191217-1&#10;Info:0101 0107 1161">
-      <created>1576584220585</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1576584220586</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Date:20191218-1&#10;Info:0806">
-      <created>1576640275645</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1576640275646</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Date:20190112-1&#10;Info:0476 1295">
-      <created>1578821463705</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1578821463705</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Date:20190112-2&#10;Info:0237 0349 0637 0821 0868 0917 1047 1302">
-      <created>1578831677573</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1578831677573</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Date:20190112-3&#10;Info:0429 0515 0884">
-      <created>1578837937133</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1578837937133</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Date:20190113-1&#10;Info:0066 0070">
-      <created>1578930584900</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1578930584900</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Date:20190114-1&#10;Info:0111 1299 1317">
-      <created>1578966470581</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1578966470581</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Date:20190114-2&#10;Info:0121 0693">
-      <created>1578993729232</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1578993729232</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Date:20190116-1&#10;Info:0112 0141 0203 0204">
-      <created>1579157982954</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1579157982954</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Date:20190117-1&#10;Info:1313">
-      <created>1579231864588</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1579231864588</updated>
-    </task>
-    <task id="LOCAL-00036" summary="Date:20190117-2&#10;Info:1304 1309">
-      <created>1579241491723</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1579241491724</updated>
-    </task>
-    <option name="localTasksCounter" value="37" />
+    <option name="localTasksCounter" value="4" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70557000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23819445" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3287841" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39952996" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32902467" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32902467" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32902467" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Date:20191209-2&#10;Info:0537" />
-    <MESSAGE value="Date:20191209-3&#10;Info:0876 0922" />
-    <MESSAGE value="Date:20191210-1&#10;Info:1200" />
-    <MESSAGE value="Date:20191210-2&#10;Info:0104 0136 0872 0877 0912" />
-    <MESSAGE value="Date:20191211-1&#10;Info:1184 1189" />
-    <MESSAGE value="Date:20191212-1&#10;Info:0589 0590 0654 0944" />
-    <MESSAGE value="Date:20191215-1&#10;Info:0028 0559 1051 1287" />
-    <MESSAGE value="Date:20191215-2&#10;Info:add database shell concurrency packages" />
-    <MESSAGE value="Date:20191215-3&#10;Info:0175 0176 0595" />
-    <MESSAGE value="Date:20191215-4&#10;Info:1137 1154 1290" />
-    <MESSAGE value="Date:20191216-1&#10;Info:0389 0530 0535 0697 0896" />
-    <MESSAGE value="Date:20191216-2&#10;Info:0102" />
-    <MESSAGE value="Date:20191216-3&#10;Info:add database" />
-    <MESSAGE value="Date:20191216-4&#10;Info:0007 0019 0029 0035 0058" />
-    <MESSAGE value="Date:20191217-1&#10;Info:0101 0107 1161" />
-    <MESSAGE value="Date:20191218-1&#10;Info:0806" />
-    <MESSAGE value="Date:20190112-1&#10;Info:0476 1295" />
-    <MESSAGE value="Date:20190112-2&#10;Info:0237 0349 0637 0821 0868 0917 1047 1302" />
-    <MESSAGE value="Date:20190112-3&#10;Info:0429 0515 0884" />
-    <MESSAGE value="Date:20190113-1&#10;Info:0066 0070" />
-    <MESSAGE value="Date:20190114-1&#10;Info:0111 1299 1317" />
-    <MESSAGE value="Date:20190114-2&#10;Info:0121 0693" />
-    <MESSAGE value="Date:20190116-1&#10;Info:0112 0141 0203 0204" />
-    <MESSAGE value="Date:20190117-1&#10;Info:1313" />
-    <MESSAGE value="Date:20190117-2&#10;Info:1304 1309" />
-    <option name="LAST_COMMIT_MESSAGE" value="Date:20190117-2&#10;Info:1304 1309" />
+    <MESSAGE value="Date:20200315-1&#10;Info:0004 0005 0006 0008 0011 0098 0103 0144 0199 0230 0238 0300" />
+    <MESSAGE value="Date:20200315-2&#10;Info:缩进修改" />
+    <MESSAGE value="Date:20200316-1&#10;Info:&#10;Algorithm:0150&#10;CodingInterviews:0003&#10;CrackingTheCodingInterview:0101" />
+    <option name="LAST_COMMIT_MESSAGE" value="Date:20200316-1&#10;Info:&#10;Algorithm:0150&#10;CodingInterviews:0003&#10;CrackingTheCodingInterview:0101" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode1026.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode1260.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0530.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="36" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0007.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0704.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0384.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0019.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="33" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0020.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="30" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0035.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0058.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0101.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="30" selection-end-column="5" />
-          <folding>
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0993.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-          <folding>
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#426#427#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0107.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode1161.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" selection-start-line="19" selection-end-line="45" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0102.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="34" selection-end-column="68" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0509.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0476.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-          <folding>
-            <element signature="e#191#192#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode1295.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode1302.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="36" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode1002.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode1047.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0821.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0637.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="20" selection-start-line="20" selection-end-line="42" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0868.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0349.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" selection-start-line="6" selection-end-line="22" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0237.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" selection-start-line="16" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0917.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0169.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0429.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="29" selection-start-line="29" selection-end-line="51" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0884.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0515.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0066.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0070.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode1317.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0806.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="34" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode1299.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0111.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0693.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0121.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0083.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" selection-start-line="17" selection-end-line="28" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0112.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0113.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="17" selection-start-line="17" selection-end-line="44" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0141.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="24" selection-start-line="18" selection-start-column="11" selection-end-line="28" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0142.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="38" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0203.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode0204.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode1313.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="22" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode1304.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode1309.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode1315.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="39" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/LeetCode1282.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArquillianSettingsConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>LeetCodeJava</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state x="560" y="91" key="CommitChangelistDialog2" timestamp="1584315651840">
+      <screen x="0" y="0" width="1920" height="998" />
+    </state>
+    <state x="560" y="91" key="CommitChangelistDialog2/0.0.1920.998@0.0.1920.998" timestamp="1584315651840" />
+    <state x="740" y="253" key="FileChooserDialogImpl" timestamp="1584275382358">
+      <screen x="0" y="0" width="1920" height="998" />
+    </state>
+    <state x="740" y="253" key="FileChooserDialogImpl/0.0.1920.998@0.0.1920.998" timestamp="1584275382358" />
+    <state x="184" y="81" key="MergeDialog" timestamp="1584272969340">
+      <screen x="0" y="0" width="1920" height="998" />
+    </state>
+    <state x="184" y="81" key="MergeDialog/0.0.1920.998@0.0.1920.998" timestamp="1584272969340" />
+    <state x="669" y="213" key="MultipleFileMergeDialog" timestamp="1584272974184">
+      <screen x="0" y="0" width="1920" height="998" />
+    </state>
+    <state x="669" y="213" key="MultipleFileMergeDialog/0.0.1920.998@0.0.1920.998" timestamp="1584272974184" />
+    <state x="461" y="130" key="SettingsEditor" timestamp="1584272601082">
+      <screen x="0" y="0" width="1920" height="998" />
+    </state>
+    <state x="461" y="130" key="SettingsEditor/0.0.1920.998@0.0.1920.998" timestamp="1584272601082" />
+    <state x="552" y="231" key="Vcs.Push.Dialog.v2" timestamp="1584315655112">
+      <screen x="0" y="0" width="1920" height="998" />
+    </state>
+    <state x="552" y="231" key="Vcs.Push.Dialog.v2/0.0.1920.998@0.0.1920.998" timestamp="1584315655112" />
+    <state x="92" y="92" width="1736" height="814" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1584272685120">
+      <screen x="0" y="0" width="1920" height="998" />
+    </state>
+    <state x="92" y="92" width="1736" height="814" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.998@0.0.1920.998" timestamp="1584272685120" />
+    <state x="645" y="321" key="com.intellij.ide.util.TipDialog" timestamp="1584272247448">
+      <screen x="0" y="0" width="1920" height="998" />
+    </state>
+    <state x="645" y="321" key="com.intellij.ide.util.TipDialog/0.0.1920.998@0.0.1920.998" timestamp="1584272247448" />
+    <state x="330" y="108" key="new project wizard" timestamp="1584275384972">
+      <screen x="0" y="0" width="1920" height="998" />
+    </state>
+    <state x="330" y="108" key="new project wizard/0.0.1920.998@0.0.1920.998" timestamp="1584275384972" />
   </component>
 </project>
