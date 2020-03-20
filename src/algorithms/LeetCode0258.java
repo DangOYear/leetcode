@@ -3,7 +3,6 @@ package src.algorithms;
 public class LeetCode0258 {
     class Solution {
         public int addDigits(int num) {
-
             while (num / 10 >= 1) {
                 num = cal(num);
             }
