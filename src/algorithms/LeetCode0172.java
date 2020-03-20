@@ -7,6 +7,7 @@ public class LeetCode0172 {
             for (int i = 1; i <= n; ++i) {
 
             }
+            return -1;
         }
 
     }
