@@ -5,20 +5,18 @@ import java.util.Arrays;
 public class LeetCode0322 {
     class Solution {
         public int coinChange(int[] coins, int amount) {
-            Arrays.sort(coins);
-            int res = 0;
-            for (int i = coins.length - 1; i >= 0; --i) {
-                if (amount == 0)
-                    break;
-                int num = amount / coins[i];
-                res += num;
-                amount = amount - num * coins[i];
-            }
+            int[] dp = new int[amount+1];
+            Arrays.fill(dp, amount+1);
+            dp[0] = 0;
 
-            if (amount != 0)
-                return -1;
-            else
-                return res;
+            for (int i = 1; i <= amount; ++i) {
+                for (int j = 0; j < coins.length; ++j) {
+                    if (i >= coins[j]) {
+                        dp[i] = Math.min(dp[i], dp[i-coins[j]]+1);
+                    }
+                }
+            }
+            return dp[amount] > amount ? -1 : dp[amount];
         }
     }
 }
