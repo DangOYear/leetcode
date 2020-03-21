@@ -8,6 +8,7 @@ public class LeetCode0190 {
     public class Solution {
         // you need treat n as an unsigned value
         public int reverseBits(int n) {
+            int res = 0;
             return -1;
         }
     }
