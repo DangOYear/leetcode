@@ -14,7 +14,7 @@ public class CTCI0402 {
      */
     class Solution {
         public TreeNode sortedArrayToBST(int[] nums) {
-            
+
             return null;
         }
     }
