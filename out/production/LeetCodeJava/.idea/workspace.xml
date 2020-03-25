@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63a835fd-8ad8-4ff7-bf65-9af0134f38cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithms/LeetCode0287.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codinginterviews/CI0032I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codinginterviews/CI0032II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/LeetCode0322.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/LeetCode0322.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/LeetCode0278.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/LeetCode0413.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/LeetCode0498.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/LeetCode0680.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/LeetCode0931.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,6 +121,15 @@
       <workItem from="1584504101392" duration="599000" />
       <workItem from="1584612890416" duration="1975000" />
       <workItem from="1584669031067" duration="10454000" />
+      <workItem from="1584690300090" duration="7812000" />
+      <workItem from="1584747143291" duration="595000" />
+      <workItem from="1584773442071" duration="4987000" />
+      <workItem from="1584840785061" duration="9170000" />
+      <workItem from="1584876083166" duration="664000" />
+      <workItem from="1584969715296" duration="362000" />
+      <workItem from="1585038767334" duration="9506000" />
+      <workItem from="1585095202924" duration="6845000" />
+      <workItem from="1585135009687" duration="3718000" />
     </task>
     <task id="LOCAL-00001" summary="Date:20200315-1&#10;Info:0004 0005 0006 0008 0011 0098 0103 0144 0199 0230 0238 0300">
       <created>1584272898892</created>
@@ -177,7 +187,84 @@
       <option name="project" value="LOCAL" />
       <updated>1584673835635</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Date:20200320-2&#10;Info:&#10;Algorithm:0287 0322&#10;CodingInterviews:0032I 0032II">
+      <created>1584692167457</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1584692167457</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Date:20200320-3&#10;Info:&#10;Algorithm:0202 0258">
+      <created>1584692673854</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1584692673854</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Date:20200320-4&#10;Info:&#10;Algorithm:0013">
+      <created>1584695791464</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1584695791464</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Date:20200320-5&#10;Info:&#10;Algorithm:0053 0118 0326">
+      <created>1584700795311</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1584700795311</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Date:20200321-1&#10;Info:&#10;Algorithm:0125 0160 0387 0412">
+      <created>1584779766140</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1584779766140</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Date:20200322-1&#10;Info:&#10;Algorithm:0108 0116">
+      <created>1584843260780</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1584843260780</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Date:20200322-2&#10;Info:&#10;Algorithm:0292 0538 1227 1351&#10;CrackingTheCodingInterview:0403">
+      <created>1584860613588</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1584860613588</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Date:20200322-2&#10;Info:&#10;Algorithm:0222 0897&#10;CodingInterviews:0032III">
+      <created>1585040458567</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1585040458567</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Date:20200324-1&#10;Info:&#10;Algorithm:0064  0096 0191 0338 0606 0653 1025 1277 1314&#10;CodingInterviews:0015 0047">
+      <created>1585051196561</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1585051196561</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Date:20200325-1&#10;Info:&#10;Algorithm:0120 0303 0392 0714 0746&#10;CodingInterviews:0042 0063&#10;CrackingTheCodingInterview:0801 1617">
+      <created>1585100576364</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1585100576364</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Date:20200325-2&#10;Info:&#10;CrackingTheCodingInterview:1716">
+      <created>1585102421970</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1585102421970</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,33 +279,44 @@
     <MESSAGE value="Date:20200317-3&#10;Info:&#10;CrackingTheCodingInterview:0101 0102 0104 0202" />
     <MESSAGE value="Date:20200319-1&#10;Info:&#10;Algorithm:0094 0409" />
     <MESSAGE value="Date:20200320-1&#10;Info:&#10;CodingInterviews:0006 0018 0022 0025 0027 0040 055I" />
-    <option name="LAST_COMMIT_MESSAGE" value="Date:20200320-1&#10;Info:&#10;CodingInterviews:0006 0018 0022 0025 0027 0040 055I" />
+    <MESSAGE value="Date:20200320-2&#10;Info:&#10;Algorithm:0287 0322&#10;CodingInterviews:0032I 0032II" />
+    <MESSAGE value="Date:20200320-3&#10;Info:&#10;Algorithm:0202 0258" />
+    <MESSAGE value="Date:20200320-4&#10;Info:&#10;Algorithm:0013" />
+    <MESSAGE value="Date:20200320-5&#10;Info:&#10;Algorithm:0053 0118 0326" />
+    <MESSAGE value="Date:20200321-1&#10;Info:&#10;Algorithm:0125 0160 0387 0412" />
+    <MESSAGE value="Date:20200322-1&#10;Info:&#10;Algorithm:0108 0116" />
+    <MESSAGE value="Date:20200322-2&#10;Info:&#10;Algorithm:0292 0538 1227 1351&#10;CrackingTheCodingInterview:0403" />
+    <MESSAGE value="Date:20200322-2&#10;Info:&#10;Algorithm:0222 0897&#10;CodingInterviews:0032III" />
+    <MESSAGE value="Date:20200324-1&#10;Info:&#10;Algorithm:0064  0096 0191 0338 0606 0653 1025 1277 1314&#10;CodingInterviews:0015 0047" />
+    <MESSAGE value="Date:20200325-1&#10;Info:&#10;Algorithm:0120 0303 0392 0714 0746&#10;CodingInterviews:0042 0063&#10;CrackingTheCodingInterview:0801 1617" />
+    <MESSAGE value="Date:20200325-2&#10;Info:&#10;CrackingTheCodingInterview:1716" />
+    <option name="LAST_COMMIT_MESSAGE" value="Date:20200325-2&#10;Info:&#10;CrackingTheCodingInterview:1716" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="272" y="81" key="CommitChangelistDialog2" timestamp="1584673834617">
+    <state x="333" y="78" key="CommitChangelistDialog2" timestamp="1585102421302">
       <screen x="0" y="0" width="1920" height="998" />
     </state>
-    <state x="272" y="81" key="CommitChangelistDialog2/0.0.1920.998@0.0.1920.998" timestamp="1584673834617" />
-    <state x="740" y="253" key="FileChooserDialogImpl" timestamp="1584350000162">
+    <state x="333" y="78" key="CommitChangelistDialog2/0.0.1920.998@0.0.1920.998" timestamp="1585102421302" />
+    <state x="740" y="253" key="FileChooserDialogImpl" timestamp="1584876149708">
       <screen x="0" y="0" width="1920" height="998" />
     </state>
-    <state x="740" y="253" key="FileChooserDialogImpl/0.0.1920.998@0.0.1920.998" timestamp="1584350000162" />
-    <state width="900" height="268" key="GridCell.Tab.0.bottom" timestamp="1584690170031">
+    <state x="740" y="253" key="FileChooserDialogImpl/0.0.1920.998@0.0.1920.998" timestamp="1584876149708" />
+    <state width="900" height="268" key="GridCell.Tab.0.bottom" timestamp="1584692177208">
       <screen x="0" y="0" width="1920" height="998" />
     </state>
-    <state width="900" height="268" key="GridCell.Tab.0.bottom/0.0.1920.998@0.0.1920.998" timestamp="1584690170031" />
-    <state width="900" height="268" key="GridCell.Tab.0.center" timestamp="1584690170031">
+    <state width="900" height="268" key="GridCell.Tab.0.bottom/0.0.1920.998@0.0.1920.998" timestamp="1584692177208" />
+    <state width="900" height="268" key="GridCell.Tab.0.center" timestamp="1584692177208">
       <screen x="0" y="0" width="1920" height="998" />
     </state>
-    <state width="900" height="268" key="GridCell.Tab.0.center/0.0.1920.998@0.0.1920.998" timestamp="1584690170031" />
-    <state width="900" height="268" key="GridCell.Tab.0.left" timestamp="1584690170031">
+    <state width="900" height="268" key="GridCell.Tab.0.center/0.0.1920.998@0.0.1920.998" timestamp="1584692177208" />
+    <state width="900" height="268" key="GridCell.Tab.0.left" timestamp="1584692177207">
       <screen x="0" y="0" width="1920" height="998" />
     </state>
-    <state width="900" height="268" key="GridCell.Tab.0.left/0.0.1920.998@0.0.1920.998" timestamp="1584690170031" />
-    <state width="900" height="268" key="GridCell.Tab.0.right" timestamp="1584690170031">
+    <state width="900" height="268" key="GridCell.Tab.0.left/0.0.1920.998@0.0.1920.998" timestamp="1584692177207" />
+    <state width="900" height="268" key="GridCell.Tab.0.right" timestamp="1584692177208">
       <screen x="0" y="0" width="1920" height="998" />
     </state>
-    <state width="900" height="268" key="GridCell.Tab.0.right/0.0.1920.998@0.0.1920.998" timestamp="1584690170031" />
+    <state width="900" height="268" key="GridCell.Tab.0.right/0.0.1920.998@0.0.1920.998" timestamp="1584692177208" />
     <state width="900" height="312" key="GridCell.Tab.1.bottom" timestamp="1584690170027">
       <screen x="0" y="0" width="1920" height="998" />
     </state>
@@ -247,10 +345,10 @@
       <screen x="0" y="0" width="1920" height="998" />
     </state>
     <state x="461" y="130" key="SettingsEditor/0.0.1920.998@0.0.1920.998" timestamp="1584272601082" />
-    <state x="552" y="231" key="Vcs.Push.Dialog.v2" timestamp="1584673837874">
+    <state x="552" y="231" key="Vcs.Push.Dialog.v2" timestamp="1585102423574">
       <screen x="0" y="0" width="1920" height="998" />
     </state>
-    <state x="552" y="231" key="Vcs.Push.Dialog.v2/0.0.1920.998@0.0.1920.998" timestamp="1584673837874" />
+    <state x="552" y="231" key="Vcs.Push.Dialog.v2/0.0.1920.998@0.0.1920.998" timestamp="1585102423574" />
     <state x="92" y="92" width="1736" height="814" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1584272685120">
       <screen x="0" y="0" width="1920" height="998" />
     </state>
@@ -263,21 +361,9 @@
       <screen x="0" y="0" width="1920" height="998" />
     </state>
     <state x="330" y="108" key="new project wizard/0.0.1920.998@0.0.1920.998" timestamp="1584275384972" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/codinginterviews/CI0027.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithms/LeetCode0287.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="1103" y="218" width="672" height="678" key="search.everywhere.popup" timestamp="1585049476207">
+      <screen x="0" y="0" width="1920" height="998" />
+    </state>
+    <state x="1103" y="218" width="672" height="678" key="search.everywhere.popup/0.0.1920.998@0.0.1920.998" timestamp="1585049476207" />
   </component>
 </project>
