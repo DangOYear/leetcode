@@ -18,7 +18,6 @@ public class LeetCode0071 {
                 }
             }
 
-
             if (stack.isEmpty()) {
                 return "/";
             }
