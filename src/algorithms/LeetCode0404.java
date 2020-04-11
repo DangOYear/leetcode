@@ -23,8 +23,8 @@ public class LeetCode0404 {
 
         void dfs(TreeNode node) {
             if (node != null) {
-                if (node.left == null && node.right == null)
-                    res += node.val;
+                if (node.left != null && node.left.right == null && node.left.left == null)
+                    res += node.left.val;
                 dfs(node.left);
                 dfs(node.right);
             }

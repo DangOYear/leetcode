@@ -1,10 +1,8 @@
-package src.crackingthecodinginterview;
+package src.algorithms;
 
 import src.algorithms.baseclass.TreeNode;
 
-import java.util.Map;
-
-public class CTCI0404 {
+public class LeetCode0110 {
     /**
      * Definition for a binary tree node.
      * public class TreeNode {
@@ -31,6 +29,5 @@ public class CTCI0404 {
             return Math.abs(height(root.left) - height(root.right)) < 2 && isBalanced(root.left) && isBalanced(root.right);
         }
     }
-
 
 }
