@@ -1,5 +1,12 @@
 package src.algorithms;
 
+
+class GuessGame {
+    public int guess(int mid) {
+        return -1;
+    }
+}
+
 public class LeetCode0374 {
     /* The guess API is defined in the parent class GuessGame.
    @param num, your guess
