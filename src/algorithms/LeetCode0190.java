@@ -9,7 +9,13 @@ public class LeetCode0190 {
         // you need treat n as an unsigned value
         public int reverseBits(int n) {
             int res = 0;
-            return -1;
+            int pow = 31;
+            while (n != 0) {
+                res += (n & 1) << pow ;
+                n = n >>> 1;
+                pow -= 1;
+            }
+            return res;
         }
     }
 }
