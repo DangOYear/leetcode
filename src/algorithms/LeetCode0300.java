@@ -4,7 +4,6 @@ import java.util.*;
 
 
 
-
 public class LeetCode0300 {
     class Solution {
         public int lengthOfLIS(int[] nums) {
