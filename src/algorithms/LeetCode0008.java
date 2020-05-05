@@ -16,12 +16,8 @@ public class LeetCode0008 {
             if (index == strLen) {
                 return 0;
             }
-
-
             int sign = 1;
-
             char firstChar = str.charAt(index);
-
             if (firstChar == '+') {
                 index++;
                 sign = 1;
@@ -29,8 +25,6 @@ public class LeetCode0008 {
                 index++;
                 sign = -1;
             }
-
-
             while (index < strLen) {
                 char curChar = str.charAt(index);
 
