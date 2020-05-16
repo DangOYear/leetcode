@@ -25,6 +25,9 @@ package src.codinginterviews;
 public class CI0010II {
     class Solution {
         public int numWays(int n) {
+            if (n == 0) {
+                return 1;
+            }
             if (n <= 2) {
                 return n;
             }
