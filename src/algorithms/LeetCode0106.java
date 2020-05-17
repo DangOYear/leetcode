@@ -1,5 +1,7 @@
 package src.algorithms;
 
+import src.algorithms.baseclass.TreeNode;
+
 public class LeetCode0106 {
     /**
      * Definition for a binary tree node.
@@ -12,7 +14,7 @@ public class LeetCode0106 {
      */
     class Solution {
         public TreeNode buildTree(int[] inorder, int[] postorder) {
-
+            return new TreeNode(0);
         }
     }
 }

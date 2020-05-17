@@ -14,7 +14,17 @@ public class CI0018 {
     class Solution {
         public ListNode deleteNode(ListNode head, int val) {
             ListNode dummy = new ListNode(0);
-            return null;
+            dummy.next = head;
+            ListNode pre = dummy;
+            while (head != null) {
+                if (head.val == val) {
+                    pre.next = head.next;
+                    break;
+                }
+                pre = pre.next;
+                head = head.next;
+            }
+            return dummy.next;
         }
     }
 }
