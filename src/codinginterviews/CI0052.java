@@ -6,7 +6,7 @@ import src.algorithms.baseclass.ListNode;
 /**
  *
  * https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/
- * 
+ *
  * 剑指 Offer 52. 两个链表的第一个公共节点
  *
  * 输入两个链表，找出它们的第一个公共节点。
@@ -28,12 +28,38 @@ public class CI0052 {
         public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
             ListNode pA = headA;
             ListNode pB = headB;
-
-            while (pA != pB) {
-                pA = pA.next != null ? pA.next : headB;
-                pB = pB.next != null ? pB.next : headA;
+            int lengthA = 0;
+            int lengthB = 0;
+            while (pA != null) {
+                ++lengthA;
+                pA = pA.next;
             }
-            return pA;
+            while (pB != null) {
+                ++lengthB;
+                pB = pB.next;
+            }
+            pA = headA;
+            pB = headB;
+            if (lengthA < lengthB) {
+                ListNode temp = pA;
+                pA = pB;
+                pB = temp;
+            }
+
+
+            for (int i = Math.abs(lengthA - lengthB); i > 0; --i) {
+                pA = pA.next;
+            }
+
+            while (pA != pB && (pA != null) && (pB != null)) {
+                pA = pA.next;
+                pB = pB.next;
+            }
+            if (pA == pB && pA != null) {
+                return pA;
+            } else {
+                return null;
+            }
         }
     }
 }
