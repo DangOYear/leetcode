@@ -41,7 +41,7 @@ package src.algorithms;
 public class LeetCode1402 {
     class Solution {
         public int maxSatisfaction(int[] satisfaction) {
-
+            return -1;
         }
     }
 }

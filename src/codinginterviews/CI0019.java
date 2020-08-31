@@ -34,7 +34,7 @@ public class CI0019 {
         }
 
         boolean mathCore(String str, String pattern) {
-            if (s)
+            return false;
         }
     }
 }

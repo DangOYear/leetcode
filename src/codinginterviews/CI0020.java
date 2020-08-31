@@ -11,7 +11,7 @@ package src.codinginterviews;
 public class CI0020 {
     class Solution {
         public boolean isNumber(String s) {
-
+            return false;
         }
     }
 }

@@ -28,5 +28,5 @@ import java.util.Stack;
  *
  */
 public class CI0031 {
-CI
+
 }
