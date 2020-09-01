@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8da752a9-a334-4c69-922a-5ed502ed2e31" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/codinginterviews/CI0018.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codinginterviews/CI0018.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codinginterviews/CI0034.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codinginterviews/CI0034.java" afterDir="false" />
+    <list default="true" id="e9e28f20-3a67-4a42-bcc3-2766d70fd076" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeJava/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codinginterviews/CI0053I.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codinginterviews/CI0053I.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,20 +12,6 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,51 +24,28 @@
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
         <option value="yushengyun &lt;yushengyun2013@163.com&gt;" />
-        <option value="ShengyunYu &lt;yushengyun2013@163.com&gt;" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="SIGN_OFF_COMMIT" value="true" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="$PROJECT_DIR$/../../software/MavenLocal" />
-        <option name="mavenHome" value="/usr/local/apache-maven-3.6.1" />
-        <option name="userSettingsFile" value="/usr/local/apache-maven-3.6.1/conf/settings.xml" />
-      </MavenGeneralSettings>
-    </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1aUdGQScqO4ALmoQUSkfinduZR6" />
+  <component name="ProjectId" id="1cMDrRrNHZlWWCjsRO3n3ys8gIb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586612410376" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/algorithms" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.CI0034">
-    <configuration name="CI0034" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.codinginterviews.CI0034" />
+  <component name="RunManager">
+    <configuration name="CI0057II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.codinginterviews.CI0057II" />
       <module name="LeetCodeJava" />
       <extension name="coverage">
         <pattern>
@@ -94,65 +57,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode0111" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.algorithms.LeetCode0111" />
-      <module name="LeetCodeJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.algorithms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeetCode0806" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.algorithms.LeetCode0806" />
-      <module name="LeetCodeJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.algorithms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeetCode1282" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.algorithms.LeetCode1282" />
-      <module name="LeetCodeJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.algorithms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="meituan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.algorithms.meituan" />
-      <module name="LeetCodeJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.algorithms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CI0034" />
-        <item itemvalue="Application.meituan" />
-        <item itemvalue="Application.LeetCode1282" />
-        <item itemvalue="Application.LeetCode0111" />
-        <item itemvalue="Application.LeetCode0806" />
+        <item itemvalue="Application.CI0057II" />
       </list>
     </recent_temporary>
   </component>
@@ -161,609 +68,187 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8da752a9-a334-4c69-922a-5ed502ed2e31" name="Default Changelist" comment="" />
-      <created>1561793806693</created>
+      <changelist id="e9e28f20-3a67-4a42-bcc3-2766d70fd076" name="Default Changelist" comment="" />
+      <created>1590329766641</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1561793806693</updated>
-      <workItem from="1561793808185" duration="1701000" />
-      <workItem from="1574664319494" duration="805000" />
-      <workItem from="1574690537785" duration="6128000" />
-      <workItem from="1574765279720" duration="265000" />
-      <workItem from="1574826850984" duration="730000" />
-      <workItem from="1574832365717" duration="6036000" />
-      <workItem from="1575027941130" duration="6517000" />
-      <workItem from="1575163457894" duration="2713000" />
-      <workItem from="1575274754533" duration="1265000" />
-      <workItem from="1575350930324" duration="220000" />
-      <workItem from="1575697009352" duration="1173000" />
-      <workItem from="1575858105957" duration="2301000" />
-      <workItem from="1575891510091" duration="305000" />
-      <workItem from="1575949207688" duration="949000" />
-      <workItem from="1575950566491" duration="1475000" />
-      <workItem from="1575952878883" duration="109000" />
-      <workItem from="1575953702141" duration="260000" />
-      <workItem from="1576061581388" duration="918000" />
-      <workItem from="1576126720580" duration="1498000" />
-      <workItem from="1576145919651" duration="431000" />
-      <workItem from="1576377816553" duration="939000" />
-      <workItem from="1576379394618" duration="2557000" />
-      <workItem from="1576391077060" duration="738000" />
-      <workItem from="1576416140978" duration="968000" />
-      <workItem from="1576457326034" duration="2160000" />
-      <workItem from="1576460297017" duration="6939000" />
-      <workItem from="1576582657912" duration="1114000" />
-      <workItem from="1576639439941" duration="1437000" />
-      <workItem from="1578821074832" duration="7078000" />
-      <workItem from="1578929809624" duration="2606000" />
-      <workItem from="1578992945347" duration="794000" />
-      <workItem from="1579149912214" duration="2266000" />
-      <workItem from="1579157235103" duration="1951000" />
-      <workItem from="1579231814305" duration="8514000" />
-      <workItem from="1579418297456" duration="2471000" />
-      <workItem from="1579968830588" duration="1691000" />
-      <workItem from="1580033716893" duration="183000" />
-      <workItem from="1580092774829" duration="1834000" />
-      <workItem from="1585799225564" duration="463000" />
-      <workItem from="1585800809162" duration="195000" />
-      <workItem from="1585801030338" duration="299000" />
-      <workItem from="1585801487044" duration="58000" />
-      <workItem from="1585815363242" duration="1789000" />
-      <workItem from="1585839450472" duration="1842000" />
-      <workItem from="1585890734697" duration="617000" />
-      <workItem from="1585923927358" duration="165000" />
-      <workItem from="1586049358571" duration="209000" />
-      <workItem from="1586054599661" duration="635000" />
-      <workItem from="1586078023052" duration="2835000" />
-      <workItem from="1586223388049" duration="18000" />
-      <workItem from="1586223410092" duration="2404000" />
-      <workItem from="1586226497641" duration="515000" />
-      <workItem from="1586227234825" duration="819000" />
-      <workItem from="1586228086770" duration="3555000" />
-      <workItem from="1586250430759" duration="110000" />
-      <workItem from="1586279113258" duration="444000" />
-      <workItem from="1586310148973" duration="1194000" />
-      <workItem from="1586315694631" duration="1205000" />
-      <workItem from="1586362441087" duration="1750000" />
-      <workItem from="1586441182830" duration="7384000" />
-      <workItem from="1586567755814" duration="7981000" />
-      <workItem from="1586603466278" duration="16000" />
-      <workItem from="1586605745184" duration="869000" />
-      <workItem from="1586606668723" duration="5345000" />
-      <workItem from="1586794012198" duration="1112000" />
-      <workItem from="1586965790612" duration="399000" />
-      <workItem from="1587174574838" duration="1025000" />
-      <workItem from="1587436207369" duration="21000" />
-      <workItem from="1587811345935" duration="951000" />
-      <workItem from="1588046805922" duration="1359000" />
-      <workItem from="1588048799216" duration="249000" />
-      <workItem from="1588055496501" duration="5198000" />
-      <workItem from="1588245261284" duration="193000" />
-      <workItem from="1588681165275" duration="1905000" />
-      <workItem from="1588692357329" duration="21000" />
-      <workItem from="1589024399195" duration="1855000" />
-      <workItem from="1589128671709" duration="2183000" />
-      <workItem from="1589422669631" duration="4048000" />
-      <workItem from="1589446665555" duration="1000" />
-      <workItem from="1589464426901" duration="1394000" />
-      <workItem from="1589607554510" duration="6765000" />
+      <updated>1590329766641</updated>
+      <workItem from="1590329770237" duration="663000" />
+      <workItem from="1590828783867" duration="4491000" />
+      <workItem from="1590939321974" duration="953000" />
+      <workItem from="1591374011224" duration="800000" />
+      <workItem from="1591580958458" duration="2652000" />
+      <workItem from="1591796799863" duration="3728000" />
+      <workItem from="1591837797498" duration="3282000" />
+      <workItem from="1593654893302" duration="516000" />
+      <workItem from="1595145767482" duration="1087000" />
+      <workItem from="1595147583538" duration="350000" />
+      <workItem from="1595245894345" duration="281000" />
+      <workItem from="1596383526273" duration="3801000" />
+      <workItem from="1596560681629" duration="642000" />
+      <workItem from="1596729332273" duration="103000" />
+      <workItem from="1596809962155" duration="1593000" />
+      <workItem from="1597074823263" duration="650000" />
+      <workItem from="1597370982225" duration="855000" />
+      <workItem from="1597461409687" duration="5360000" />
+      <workItem from="1597765773581" duration="207000" />
+      <workItem from="1598105771151" duration="2851000" />
+      <workItem from="1598329550639" duration="1728000" />
+      <workItem from="1598754464438" duration="3234000" />
+      <workItem from="1598840739289" duration="647000" />
+      <workItem from="1598928731954" duration="596000" />
+      <workItem from="1598936031943" duration="199000" />
+      <workItem from="1598959384195" duration="973000" />
     </task>
-    <task id="LOCAL-00010" summary="Date:20191207-1&#10;Info:0021 0026 0027 0929">
-      <created>1575698249253</created>
+    <task id="LOCAL-00001" summary="Date:20200517-2&#10;&#10;Info:&#10;Algorithm:1343&#10;CodingInterViews:0053II">
+      <created>1590838184519</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590838184519</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Date:20200530-1&#10;&#10;Info:&#10;Algorithm:0162">
+      <created>1590839723360</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590839723360</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Date:20200531-1&#10;&#10;Info:&#10;Algorithm:5408">
+      <created>1590940029818</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590940029818</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Date:20200606-1&#10;&#10;Info:&#10;Algorithm:1450">
+      <created>1591374310280</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591374310280</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Date:20200608-1&#10;&#10;Info:&#10;Algorithm:1052 1410">
+      <created>1591583734879</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591583734879</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Date:20200610-1&#10;&#10;Info:&#10;Algorithm:0012 0013 0014">
+      <created>1591800636363</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1591800636364</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Date:20200611-1&#10;&#10;Info:&#10;Algorithm:0050 0343&#10;CodingInterviews:0014I 0014II 0016">
+      <created>1591841787194</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1591841787194</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Date:20200719-1&#10;&#10;Info:&#10;Algorithm:&#10;CodingInterviews:0039&#10;CrakingTheCodingInterview:1710">
+      <created>1595147104867</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1595147104867</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Date:20200803-1&#10;&#10;Info:&#10;Algorithm:0200 0448&#10;CodingInterviews:&#10;CrakingTheCodingInterview:">
+      <created>1596389848530</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1596389848530</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Date:20200804-1&#10;&#10;Info:&#10;Algorithm:0078&#10;CodingInterviews:&#10;CrakingTheCodingInterview:">
+      <created>1596473289099</created>
       <option name="number" value="00010" />
       <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1575698249254</updated>
+      <updated>1596473289099</updated>
     </task>
-    <task id="LOCAL-00011" summary="Date:20191209-1&#10;Info:0814 1281">
-      <created>1575858709444</created>
+    <task id="LOCAL-00011" summary="Date:20200808-1&#10;&#10;Info:&#10;Algorithm:1512&#10;CodingInterviews:&#10;CrakingTheCodingInterview:">
+      <created>1596820219210</created>
       <option name="number" value="00011" />
       <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
-      <updated>1575858709444</updated>
+      <updated>1596820219210</updated>
     </task>
-    <task id="LOCAL-00012" summary="Date:20191209-2&#10;Info:0537">
-      <created>1575862663232</created>
+    <task id="LOCAL-00012" summary="Date:20200815-1&#10;&#10;Info:&#10;Algorithm:0148 0240 1431 1475 1480 1486 1502&#10;CodingInterviews:0050 0052&#10;CrakingTheCodingInterview:1704">
+      <created>1597478090874</created>
       <option name="number" value="00012" />
       <option name="presentableId" value="LOCAL-00012" />
       <option name="project" value="LOCAL" />
-      <updated>1575862663232</updated>
+      <updated>1597478090874</updated>
     </task>
-    <task id="LOCAL-00013" summary="Date:20191209-3&#10;Info:0876 0922">
-      <created>1575873815373</created>
+    <task id="LOCAL-00013" summary="Date:20200815-1&#10;&#10;Info:&#10;Algorithm:1550 1558&#10;CodingInterviews:0030 0058I&#10;CrakingTheCodingInterview:">
+      <created>1598440568725</created>
       <option name="number" value="00013" />
       <option name="presentableId" value="LOCAL-00013" />
       <option name="project" value="LOCAL" />
-      <updated>1575873815373</updated>
+      <updated>1598440568725</updated>
     </task>
-    <task id="LOCAL-00014" summary="Date:20191210-1&#10;Info:1200">
-      <created>1575950180819</created>
+    <task id="LOCAL-00014" summary="Date:20200815-1&#10;&#10;Info:&#10;Algorithm:0114&#10;CodingInterviews:0046 &#10;CrakingTheCodingInterview:0103 0201">
+      <created>1598805640361</created>
       <option name="number" value="00014" />
       <option name="presentableId" value="LOCAL-00014" />
       <option name="project" value="LOCAL" />
-      <updated>1575950180820</updated>
+      <updated>1598805640361</updated>
     </task>
-    <task id="LOCAL-00015" summary="Date:20191210-2&#10;Info:0104 0136 0872 0877 0912">
-      <created>1575952057298</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1575952057298</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Date:20191211-1&#10;Info:1184 1189">
-      <created>1576062459382</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1576062459382</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Date:20191212-1&#10;Info:0589 0590 0654 0944">
-      <created>1576128365051</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1576128365051</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Date:20191215-1&#10;Info:0028 0559 1051 1287">
-      <created>1576378881847</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1576378881847</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Date:20191215-2&#10;Info:add database shell concurrency packages">
-      <created>1576380144176</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1576380144176</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Date:20191215-3&#10;Info:0175 0176 0595">
-      <created>1576390286584</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1576390286584</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Date:20191215-4&#10;Info:1137 1154 1290">
-      <created>1576417256772</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1576417256772</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Date:20191216-1&#10;Info:0389 0530 0535 0697 0896">
-      <created>1576460163177</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1576460163177</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Date:20191216-2&#10;Info:0102">
-      <created>1576463583138</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1576463583138</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Date:20191216-3&#10;Info:add database">
-      <created>1576483596230</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1576483596230</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Date:20191216-4&#10;Info:0007 0019 0029 0035 0058">
-      <created>1576488424685</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1576488424686</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Date:20191217-1&#10;Info:0101 0107 1161">
-      <created>1576584220585</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1576584220586</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Date:20191218-1&#10;Info:0806">
-      <created>1576640275645</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1576640275646</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Date:20190112-1&#10;Info:0476 1295">
-      <created>1578821463705</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1578821463705</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Date:20190112-2&#10;Info:0237 0349 0637 0821 0868 0917 1047 1302">
-      <created>1578831677573</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1578831677573</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Date:20190112-3&#10;Info:0429 0515 0884">
-      <created>1578837937133</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1578837937133</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Date:20190113-1&#10;Info:0066 0070">
-      <created>1578930584900</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1578930584900</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Date:20190114-1&#10;Info:0111 1299 1317">
-      <created>1578966470581</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1578966470581</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Date:20190114-2&#10;Info:0121 0693">
-      <created>1578993729232</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1578993729232</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Date:20190116-1&#10;Info:0112 0141 0203 0204">
-      <created>1579157982954</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1579157982954</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Date:20190117-1&#10;Info:1313">
-      <created>1579231864588</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1579231864588</updated>
-    </task>
-    <task id="LOCAL-00036" summary="Date:20190117-2&#10;Info:1304 1309">
-      <created>1579241491723</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1579241491724</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Date:20190117-3&#10;Info:1282 1315">
-      <created>1579248887014</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1579248887014</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Date:20190117-4&#10;Info:1305">
-      <created>1579249955483</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1579249955483</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Date:20190117-5&#10;Info:0807 1008 1038">
-      <created>1579268332781</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1579268332781</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Date:20190126-1&#10;Info:0003 0206 1323 1325">
-      <created>1580033843509</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1580033843509</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Date:20200402-1&#10;Info:&#10;Algorithm:0069 0367 0374">
-      <created>1585839186390</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1585839186391</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Date:20200405-1&#10;Info:&#10;CodingInterviews:0028&#10;CrackingTheCodingInterview:0203 1714">
-      <created>1586078260896</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1586078260896</updated>
-    </task>
-    <task id="LOCAL-00043" summary="Date:20200407-1&#10;Info:&#10;Algorithm:0014 0043 0071 0151 0415 0567">
-      <created>1586238827496</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1586238827496</updated>
-    </task>
-    <task id="LOCAL-00044" summary="Date:20200409-1&#10;Info:&#10;Algorithm:0024 0496 0844">
-      <created>1586363984608</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1586363984608</updated>
-    </task>
-    <task id="LOCAL-00045" summary="Date:20200410-1&#10;Info:&#10;Algorithm:0042 0763&#10;CrackingTheCodingInterview:0204 1711 1721">
-      <created>1586530239029</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1586530239029</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Date:20200411-1&#10;Info:&#10;Algorithm:1379&#10;CodingInterviews:0054 0058II&#10;CrackingTheCodingInterview:0402 0410 1601">
-      <created>1586592398440</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1586592398440</updated>
-    </task>
-    <task id="LOCAL-00047" summary="Date:20200411-2&#10;Info:&#10;Algorithm:0110 0404 0704 0860 0976 1365 1389 1394 LCP0001&#10;CrackingTheCodingInterview:0404">
-      <created>1586612348874</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1586612348875</updated>
-    </task>
-    <task id="LOCAL-00048" summary="Date:20200413-1&#10;Info:&#10;Algorithm:0190">
-      <created>1586795331413</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1586795331413</updated>
-    </task>
-    <task id="LOCAL-00049" summary="Date:20200425-1&#10;Info:&#10;Algorithm:LCP0006">
-      <created>1587813143892</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1587813143893</updated>
-    </task>
-    <task id="LOCAL-00050" summary="Date:20200428-1&#10;Info:&#10;Algorithm:0518">
-      <created>1588048318885</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1588048318886</updated>
-    </task>
-    <task id="LOCAL-00051" summary="Date:20200428-2&#10;Info:&#10;Algorithm:0099 0105 0124">
-      <created>1588060064745</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1588060064746</updated>
-    </task>
-    <task id="LOCAL-00052" summary="Date:20200505-1&#10;Info:&#10;Algorithm:1436 1437">
-      <created>1588683201242</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1588683201244</updated>
-    </task>
-    <task id="LOCAL-00053" summary="Date:20200509-1&#10;Info:&#10;Algorithm:0033">
-      <created>1589025215960</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1589025215961</updated>
-    </task>
-    <task id="LOCAL-00054" summary="Date:20200510-1&#10;Info:&#10;Algorithm:0015">
-      <created>1589129739844</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1589129739845</updated>
-    </task>
-    <task id="LOCAL-00055" summary="Date:20200510-2&#10;Info:&#10;Algorithm:0016">
-      <created>1589130422056</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1589130422056</updated>
-    </task>
-    <task id="LOCAL-00056" summary="Date:20200514-1&#10;Info:&#10;CodingInterViews:0003 0004 0005 0006 0007 0010I 0010II">
-      <created>1589464569680</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1589464569680</updated>
-    </task>
-    <task id="LOCAL-00057" summary="Date:20200516-1&#10;Info:&#10;Algorithm:0039&#10;CodingInterViews:0009 0024">
-      <created>1589644299818</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1589644299819</updated>
-    </task>
-    <task id="LOCAL-00058" summary="Date:20200516-2&#10;Info:&#10;CodingInterViews:0011">
-      <created>1589646131631</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1589646131632</updated>
-    </task>
-    <option name="localTasksCounter" value="59" />
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Date:20190116-1&#10;Info:0112 0141 0203 0204" />
-    <MESSAGE value="Date:20190117-1&#10;Info:1313" />
-    <MESSAGE value="Date:20190117-2&#10;Info:1304 1309" />
-    <MESSAGE value="Date:20190117-3&#10;Info:1282 1315" />
-    <MESSAGE value="Date:20190117-4&#10;Info:1305" />
-    <MESSAGE value="Date:20190117-5&#10;Info:0807 1008 1038" />
-    <MESSAGE value="Date:20190126-1&#10;Info:0003 0206 1323 1325" />
-    <MESSAGE value="Date:20200402-1&#10;Info:&#10;Algorithm:0069 0367 0374" />
-    <MESSAGE value="Date:20200405-1&#10;Info:&#10;CodingInterviews:0028&#10;CrackingTheCodingInterview:0203 1714" />
-    <MESSAGE value="Date:20200407-1&#10;Info:&#10;Algorithm:0014 0043 0071 0151 0415 0567" />
-    <MESSAGE value="Date:20200409-1&#10;Info:&#10;Algorithm:0024 0496 0844" />
-    <MESSAGE value="Date:20200410-1&#10;Info:&#10;Algorithm:0042 0763&#10;CrackingTheCodingInterview:0204 1711 1721" />
-    <MESSAGE value="Date:20200411-1&#10;Info:&#10;Algorithm:1379&#10;CodingInterviews:0054 0058II&#10;CrackingTheCodingInterview:0402 0410 1601" />
-    <MESSAGE value="Date:20200411-2&#10;Info:&#10;Algorithm:0110 0404 0704 0860 0976 1365 1389 1394 LCP0001&#10;CrackingTheCodingInterview:0404" />
-    <MESSAGE value="Date:20200413-1&#10;Info:&#10;Algorithm:0190" />
-    <MESSAGE value="Date:20200425-1&#10;Info:&#10;Algorithm:LCP0006" />
-    <MESSAGE value="Date:20200428-1&#10;Info:&#10;Algorithm:0518" />
-    <MESSAGE value="Date:20200428-2&#10;Info:&#10;Algorithm:0099 0105 0124" />
-    <MESSAGE value="Date:20200505-1&#10;Info:&#10;Algorithm:1436 1437" />
-    <MESSAGE value="Date:20200509-1&#10;Info:&#10;Algorithm:0033" />
-    <MESSAGE value="Date:20200510-1&#10;Info:&#10;Algorithm:0015" />
-    <MESSAGE value="Date:20200510-2&#10;Info:&#10;Algorithm:0016" />
-    <MESSAGE value="Date:20200514-1&#10;Info:&#10;CodingInterViews:0003 0004 0005 0006 0007 0010I 0010II" />
-    <MESSAGE value="Date:20200516-1&#10;Info:&#10;Algorithm:0039&#10;CodingInterViews:0009 0024" />
-    <MESSAGE value="Date:20200516-2&#10;Info:&#10;CodingInterViews:0011" />
-    <option name="LAST_COMMIT_MESSAGE" value="Date:20200516-2&#10;Info:&#10;CodingInterViews:0011" />
+    <MESSAGE value="Date:20200517-2&#10;&#10;Info:&#10;Algorithm:1343&#10;CodingInterViews:0053II" />
+    <MESSAGE value="Date:20200530-1&#10;&#10;Info:&#10;Algorithm:0162" />
+    <MESSAGE value="Date:20200531-1&#10;&#10;Info:&#10;Algorithm:5408" />
+    <MESSAGE value="Date:20200606-1&#10;&#10;Info:&#10;Algorithm:1450" />
+    <MESSAGE value="Date:20200608-1&#10;&#10;Info:&#10;Algorithm:1052 1410" />
+    <MESSAGE value="Date:20200610-1&#10;&#10;Info:&#10;Algorithm:0012 0013 0014" />
+    <MESSAGE value="Date:20200611-1&#10;&#10;Info:&#10;Algorithm:0050 0343&#10;CodingInterviews:0014I 0014II 0016" />
+    <MESSAGE value="Date:20200719-1&#10;&#10;Info:&#10;Algorithm:&#10;CodingInterviews:0039&#10;CrakingTheCodingInterview:1710" />
+    <MESSAGE value="Date:20200803-1&#10;&#10;Info:&#10;Algorithm:0200 0448&#10;CodingInterviews:&#10;CrakingTheCodingInterview:" />
+    <MESSAGE value="Date:20200804-1&#10;&#10;Info:&#10;Algorithm:0078&#10;CodingInterviews:&#10;CrakingTheCodingInterview:" />
+    <MESSAGE value="Date:20200808-1&#10;&#10;Info:&#10;Algorithm:1512&#10;CodingInterviews:&#10;CrakingTheCodingInterview:" />
+    <MESSAGE value="Date:20200815-1&#10;&#10;Info:&#10;Algorithm:0148 0240 1431 1475 1480 1486 1502&#10;CodingInterviews:0050 0052&#10;CrakingTheCodingInterview:1704" />
+    <MESSAGE value="Date:20200815-1&#10;&#10;Info:&#10;Algorithm:1550 1558&#10;CodingInterviews:0030 0058I&#10;CrakingTheCodingInterview:" />
+    <MESSAGE value="Date:20200815-1&#10;&#10;Info:&#10;Algorithm:0114&#10;CodingInterviews:0046 &#10;CrakingTheCodingInterview:0103 0201" />
+    <option name="LAST_COMMIT_MESSAGE" value="Date:20200815-1&#10;&#10;Info:&#10;Algorithm:0114&#10;CodingInterviews:0046 &#10;CrakingTheCodingInterview:0103 0201" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1806" y="23" width="825" height="877" key="CommitChangelistDialog2" timestamp="1589646131413">
-      <screen x="1440" y="23" width="1920" height="1057" />
+    <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1598767079360">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="1806" y="23" key="CommitChangelistDialog2/33.23.1407.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1589130421836" />
-    <state x="1806" y="23" key="CommitChangelistDialog2/36.23.1404.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1589646131413" />
-    <state x="304" y="23" key="CommitChangelistDialog2/36.23.1404.877/1440.23.1920.1057@36.23.1404.877" timestamp="1588692362667" />
-    <state x="1806" y="23" key="CommitChangelistDialog2/38.23.1402.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1589025215590" />
-    <state x="1806" y="23" key="CommitChangelistDialog2/39.23.1401.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1589464569088" />
-    <state x="306" y="23" width="825" height="877" key="CommitChangelistDialog2/39.23.1401.877/1440.23.1920.1057@39.23.1401.877" timestamp="1588683200855" />
-    <state x="159" y="100" key="DiffContextDialog" timestamp="1588683182499">
-      <screen x="39" y="23" width="1401" height="877" />
+    <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1598767079360" />
+    <state x="0" y="0" width="1440" height="900" key="CommitChangelistDialog2" timestamp="1598805640143">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="159" y="100" key="DiffContextDialog/39.23.1401.877/1440.23.1920.1057@39.23.1401.877" timestamp="1588683182499" />
-    <state x="1852" y="238" key="Vcs.Push.Dialog.v2" timestamp="1589646132790">
-      <screen x="1440" y="23" width="1920" height="1057" />
+    <state x="0" y="0" width="1440" height="900" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1598805640143" />
+    <state x="326" y="23" key="CommitChangelistDialog2/38.23.1402.877/1440.23.1920.1057@38.23.1402.877" timestamp="1591583734672" />
+    <state x="1835" y="23" key="CommitChangelistDialog2/39.23.1401.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1591841786981" />
+    <state x="327" y="23" key="CommitChangelistDialog2/39.23.1401.877/1440.23.1920.1057@39.23.1401.877" timestamp="1590940029481" />
+    <state x="329" y="23" key="CommitChangelistDialog2/41.23.1399.877@41.23.1399.877" timestamp="1596389848288" />
+    <state x="308" y="183" key="Vcs.Push.Dialog.v2" timestamp="1598805672518">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="1852" y="238" key="Vcs.Push.Dialog.v2/33.23.1407.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1589130423195" />
-    <state x="1852" y="238" key="Vcs.Push.Dialog.v2/36.23.1404.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1589646132790" />
-    <state x="337" y="201" key="Vcs.Push.Dialog.v2/36.23.1404.877/1440.23.1920.1057@36.23.1404.877" timestamp="1588692367774" />
-    <state x="1852" y="238" key="Vcs.Push.Dialog.v2/38.23.1402.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1589025218318" />
-    <state x="1852" y="238" key="Vcs.Push.Dialog.v2/39.23.1401.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1589469120594" />
-    <state x="339" y="201" key="Vcs.Push.Dialog.v2/39.23.1401.877/1440.23.1920.1057@39.23.1401.877" timestamp="1588683203039" />
-    <state x="439" y="218" width="600" height="486" key="find.popup" timestamp="1588245296374">
-      <screen x="35" y="23" width="1405" height="877" />
+    <state x="308" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1598805672518" />
+    <state x="338" y="201" key="Vcs.Push.Dialog.v2/38.23.1402.877/1440.23.1920.1057@38.23.1402.877" timestamp="1591583736885" />
+    <state x="1851" y="238" key="Vcs.Push.Dialog.v2/39.23.1401.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1591841788909" />
+    <state x="339" y="201" key="Vcs.Push.Dialog.v2/39.23.1401.877/1440.23.1920.1057@39.23.1401.877" timestamp="1590940031285" />
+    <state x="340" y="201" key="Vcs.Push.Dialog.v2/41.23.1399.877@41.23.1399.877" timestamp="1596389850093" />
+    <state x="114" y="62" key="new project wizard" timestamp="1598440636391">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="439" y="218" width="600" height="486" key="find.popup/35.23.1405.877/1440.23.1920.1057@35.23.1405.877" timestamp="1588245296374" />
-    <state x="2065" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1589641533234">
-      <screen x="1440" y="23" width="1920" height="1057" />
+    <state x="114" y="62" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1598440636391" />
+    <state x="385" y="196" key="search.everywhere.popup" timestamp="1596473150085">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="2065" y="258" width="670" height="676" key="search.everywhere.popup/37.23.1403.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1589641533234" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithms/LeetCode1282.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArquillianSettingsConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>LeetCodeJava</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <state x="385" y="196" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1596473150085" />
   </component>
 </project>

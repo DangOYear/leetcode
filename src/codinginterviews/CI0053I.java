@@ -32,9 +32,66 @@ package src.codinginterviews;
 public class CI0053I {
 
     class Solution {
-        public int search(int[] nums, int target) {
+        public int getFirstTarget(int[] nums, int target) {
+            int left = 0;
+            int right = nums.length - 1;
+            while (left <= right) {
+                int mid = (left + right) / 2;
+                if (nums[mid] == target) {
+                    if (mid > 0 && nums[mid-1] != target || mid == 0) {
+                        return mid;
+                    } else {
+                        right = mid - 1;
+                    }
+                } else {
+                    if (nums[mid] < target) {
+                        left = mid + 1;
+                    } else {
+                        right = mid - 1;
+                    }
+                }
+            }
             return -1;
         }
+
+        public int getLastTarget(int[] nums, int target) {
+            int left = 0;
+            int right = nums.length - 1;
+            while (left <= right) {
+                int mid = (left + right) / 2;
+                if (nums[mid] == target) {
+                    if (mid < nums.length - 1 && nums[mid+1] != target || mid == nums.length - 1) {
+                        return mid;
+                    } else {
+                        left = mid + 1;
+                    }
+                } else {
+                    if (nums[mid] < target) {
+                        left = mid + 1;
+                    } else {
+                        right = mid - 1;
+                    }
+                }
+            }
+            return -1;
+        }
+
+        public int search(int[] nums, int target) {
+            int left = getFirstTarget(nums, target);
+            int right = getLastTarget(nums, target);
+            if (left != -1 && right != -1) {
+                return right - left + 1;
+            }
+            return 0;
+        }
+    }
+
+    public static void main(String[] args) {
+        CI0053I.Solution solution = new CI0053I().new Solution();
+        int[] nums = new int[] {5,7,7,8,8,10};
+        int target = 8;
+        System.out.println(solution.getFirstTarget(nums, target));
+        System.out.println(solution.getLastTarget(nums, target));
     }
 
 }
