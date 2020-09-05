@@ -18,7 +18,7 @@ public class LeetCode1116 {
             zeroSemaphore.acquire();
             printNumber.accept(0);
             if (n % 2 == 0) {
-                
+
             }
         }
 
