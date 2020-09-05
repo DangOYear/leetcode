@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9e28f20-3a67-4a42-bcc3-2766d70fd076" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/codinginterviews/CI0049.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codinginterviews/CI0059I.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codinginterviews/CI0059I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/LeetCode0205.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,20 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.CI0053I">
+  <component name="RunManager" selected="Application.LeetCode0205">
+    <configuration name="CI0049" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.codinginterviews.CI0049" />
+      <module name="LeetCodeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.codinginterviews.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CI0053I" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.codinginterviews.CI0053I" />
       <module name="LeetCodeJava" />
@@ -70,8 +82,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LeetCode0205" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.algorithms.LeetCode0205" />
+      <module name="LeetCodeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeetCode0205" />
+        <item itemvalue="Application.CI0049" />
         <item itemvalue="Application.CI0053I" />
         <item itemvalue="Application.CI0057II" />
       </list>
@@ -113,7 +140,10 @@
       <workItem from="1598928731954" duration="596000" />
       <workItem from="1598936031943" duration="199000" />
       <workItem from="1598959384195" duration="2513000" />
-      <workItem from="1598975609702" duration="1311000" />
+      <workItem from="1598975609702" duration="2612000" />
+      <workItem from="1599062927450" duration="254000" />
+      <workItem from="1599224976531" duration="3514000" />
+      <workItem from="1599286475566" duration="449000" />
     </task>
     <task id="LOCAL-00001" summary="Date:20200517-2&#10;&#10;Info:&#10;Algorithm:1343&#10;CodingInterViews:0053II">
       <created>1590838184519</created>
@@ -220,7 +250,28 @@
       <option name="project" value="LOCAL" />
       <updated>1598977172086</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Date:20200901-2&#10;&#10;Info:&#10;Algorithm:&#10;CodingInterviews:0049 0059I&#10;CrakingTheCodingInterview:">
+      <created>1598980311695</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1598980311695</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Date:20200904-1&#10;&#10;Info:&#10;Algorithm:0257 1217 1470&#10;CodingInterviews:0056II&#10;CrakingTheCodingInterview:">
+      <created>1599227044346</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1599227044346</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Date:20200904-2&#10;&#10;Info:&#10;Algorithm:0172 0231 0908&#10;CodingInterviews:0056II&#10;CrakingTheCodingInterview:">
+      <created>1599233056823</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1599233056823</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,41 +293,44 @@
     <MESSAGE value="Date:20200815-1&#10;&#10;Info:&#10;Algorithm:1550 1558&#10;CodingInterviews:0030 0058I&#10;CrakingTheCodingInterview:" />
     <MESSAGE value="Date:20200815-1&#10;&#10;Info:&#10;Algorithm:0114&#10;CodingInterviews:0046 &#10;CrakingTheCodingInterview:0103 0201" />
     <MESSAGE value="Date:20200901-1&#10;&#10;Info:&#10;Algorithm:&#10;CodingInterviews:0053I 0061&#10;CrakingTheCodingInterview:" />
-    <option name="LAST_COMMIT_MESSAGE" value="Date:20200901-1&#10;&#10;Info:&#10;Algorithm:&#10;CodingInterviews:0053I 0061&#10;CrakingTheCodingInterview:" />
+    <MESSAGE value="Date:20200901-2&#10;&#10;Info:&#10;Algorithm:&#10;CodingInterviews:0049 0059I&#10;CrakingTheCodingInterview:" />
+    <MESSAGE value="Date:20200904-1&#10;&#10;Info:&#10;Algorithm:0257 1217 1470&#10;CodingInterviews:0056II&#10;CrakingTheCodingInterview:" />
+    <MESSAGE value="Date:20200904-2&#10;&#10;Info:&#10;Algorithm:0172 0231 0908&#10;CodingInterviews:0056II&#10;CrakingTheCodingInterview:" />
+    <option name="LAST_COMMIT_MESSAGE" value="Date:20200904-2&#10;&#10;Info:&#10;Algorithm:0172 0231 0908&#10;CodingInterviews:0056II&#10;CrakingTheCodingInterview:" />
   </component>
   <component name="WindowStateProjectService">
     <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1598767079360">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1598767079360" />
-    <state x="0" y="0" width="1440" height="900" key="CommitChangelistDialog2" timestamp="1598977171815">
+    <state x="0" y="0" width="1440" height="900" key="CommitChangelistDialog2" timestamp="1599233056569">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="0" y="0" width="1440" height="900" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1598977171815" />
+    <state x="0" y="0" width="1440" height="900" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1599233056569" />
     <state x="326" y="23" key="CommitChangelistDialog2/38.23.1402.877/1440.23.1920.1057@38.23.1402.877" timestamp="1591583734672" />
     <state x="1835" y="23" key="CommitChangelistDialog2/39.23.1401.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1591841786981" />
     <state x="327" y="23" key="CommitChangelistDialog2/39.23.1401.877/1440.23.1920.1057@39.23.1401.877" timestamp="1590940029481" />
     <state x="329" y="23" key="CommitChangelistDialog2/41.23.1399.877@41.23.1399.877" timestamp="1596389848288" />
-    <state width="720" height="312" key="GridCell.Tab.0.bottom" timestamp="1598961168855">
+    <state width="720" height="391" key="GridCell.Tab.0.bottom" timestamp="1598980269553">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="720" height="312" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598961168855" />
-    <state width="720" height="312" key="GridCell.Tab.0.center" timestamp="1598961168854">
+    <state width="720" height="391" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598980269553" />
+    <state width="720" height="391" key="GridCell.Tab.0.center" timestamp="1598980269552">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="720" height="312" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598961168854" />
-    <state width="720" height="312" key="GridCell.Tab.0.left" timestamp="1598961168854">
+    <state width="720" height="391" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598980269552" />
+    <state width="720" height="391" key="GridCell.Tab.0.left" timestamp="1598980269552">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="720" height="312" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598961168854" />
-    <state width="720" height="312" key="GridCell.Tab.0.right" timestamp="1598961168855">
+    <state width="720" height="391" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598980269552" />
+    <state width="720" height="391" key="GridCell.Tab.0.right" timestamp="1598980269553">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="720" height="312" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598961168855" />
-    <state x="308" y="183" key="Vcs.Push.Dialog.v2" timestamp="1598977174661">
+    <state width="720" height="391" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598980269553" />
+    <state x="308" y="183" key="Vcs.Push.Dialog.v2" timestamp="1599233060805">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="308" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1598977174661" />
+    <state x="308" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1599233060805" />
     <state x="338" y="201" key="Vcs.Push.Dialog.v2/38.23.1402.877/1440.23.1920.1057@38.23.1402.877" timestamp="1591583736885" />
     <state x="1851" y="238" key="Vcs.Push.Dialog.v2/39.23.1401.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1591841788909" />
     <state x="339" y="201" key="Vcs.Push.Dialog.v2/39.23.1401.877/1440.23.1920.1057@39.23.1401.877" timestamp="1590940031285" />
@@ -297,6 +351,19 @@
           <url>file://$PROJECT_DIR$/src/codinginterviews/CI0053I.java</url>
           <line>35</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codinginterviews/CI0049.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/codinginterviews/CI0049.java</url>
+          <line>26</line>
+          <properties class="src.codinginterviews.CI0049.Solution" method="nthUglyNumber">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

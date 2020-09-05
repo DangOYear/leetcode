@@ -19,7 +19,7 @@ public class CI0035 {
     */
     class Solution {
         public Node copyRandomList(Node head) {
-
+            return null;
         }
     }
 }
