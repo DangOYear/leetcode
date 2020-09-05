@@ -1,6 +1,6 @@
 package src.codinginterviews;
 
-public class Ci0064 {
+public class CI0064 {
     class Solution {
         int res = 0;
         public int sumNums(int n) {
