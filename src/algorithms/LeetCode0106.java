@@ -14,7 +14,8 @@ public class LeetCode0106 {
      */
     class Solution {
         public TreeNode buildTree(int[] inorder, int[] postorder) {
-            return new TreeNode(0);
+
         }
+
     }
 }
