@@ -28,19 +28,17 @@ public class LeetCode0113 {
         }
 
         public void dfs(TreeNode node, int count, List<Integer> onePath) {
-
             if (node != null) {
                 count += node.val;
                 onePath.add(node.val);
                 if (count == target && node.left == null && node.right == null) {
-                    res.add(onePath);
+                    res.add(new ArrayList<>(onePath));
                 }
                 dfs(node.left, count, onePath);
                 dfs(node.right, count, onePath);
-
+                if (onePath.size() >= 1)
+                    onePath.remove(onePath.size()-1);
             }
-            if (onePath.size() >= 1)
-                onePath.remove(onePath.size()-1);
         }
     }
 
