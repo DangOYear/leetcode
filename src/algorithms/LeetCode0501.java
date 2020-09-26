@@ -1,6 +1,8 @@
 package src.algorithms;
 
 import src.algorithms.baseclass.TreeNode;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  *
@@ -44,8 +46,43 @@ public class LeetCode0501 {
      * }
      */
     class Solution {
+        List<Integer> ans = new ArrayList<Integer>();;
+        int base, count, maxCount;
+
+
+        public void dfs(TreeNode node) {
+            if (node == null)
+                return;
+            dfs(node.left);
+            update(node.val);
+            dfs(node.right);
+        }
+
+        public void update(int val) {
+            if (base == val) {
+                ++count;
+            } else {
+                base = val;
+                count = 1;
+            }
+            if (count == maxCount) {
+                ans.add(val);
+            }
+
+            if (count > maxCount) {
+                maxCount = count;
+                ans.clear();
+                ans.add(base);
+            }
+        }
+
         public int[] findMode(TreeNode root) {
-               
+            dfs(root);
+            int[] mode = new int[ans.size()];
+            for (int i = 0; i < mode.length; ++i) {
+                mode[i] = ans.get(i);
+            }
+            return mode;
         }
     }
 }
