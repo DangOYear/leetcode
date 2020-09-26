@@ -5,7 +5,6 @@ import java.util.Map;
 public class LeetCode0146_1 {
     class LRUCache {
 
-        Map<Integer>
 
         public LRUCache(int capacity) {
 
