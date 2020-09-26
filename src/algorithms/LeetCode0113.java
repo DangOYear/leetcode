@@ -39,7 +39,7 @@ public class LeetCode0113 {
                 dfs(node.right, count, onePath);
 
             }
-            if (onePath.size() >=1)
+            if (onePath.size() >= 1)
                 onePath.remove(onePath.size()-1);
         }
     }
