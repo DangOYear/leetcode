@@ -48,8 +48,8 @@ public class LeetCode1588 {
         public int sumOddLengthSubarrays(int[] arr) {
             int[] prefixSum = new int[arr.length];
             for (int i = 0; i < arr.length; ++i) {
+
             }
-            return -1;
         }
     }
 
