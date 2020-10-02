@@ -46,10 +46,14 @@ public class LeetCode1588 {
 
     class Solution {
         public int sumOddLengthSubarrays(int[] arr) {
-            int[] prefixSum = new int[arr.length];
-            for (int i = 0; i < arr.length; ++i) {
-
+            int len = arr.length;
+            int res = 0;
+            for (int i = 0; i < len; ++i) {
+                int leftOdd = (i + 1) / 2, leftEven = i / 2 + 1;
+                int rightOdd = (len - i) / 2, rightEven = (len - i - 1) / 2 + 1;
+                res += arr[i] * (leftOdd * rightOdd + leftEven * rightEven);
             }
+            return res;
         }
     }
 
