@@ -16,25 +16,27 @@ public class LeetCode0142 {
      */
     public class Solution {
         public ListNode detectCycle(ListNode head) {
-            if (head == null || head.next == null)
+            if (head == null) {
                 return null;
-
-            ListNode slow = head, fast = head.next;
-            while (slow != fast) {
-                if (fast == null || fast.next == null)
-                    return null;
+            }
+            ListNode slow = head, fast = head;
+            while (fast != null) {
                 slow = slow.next;
-                fast = fast.next.next;
+                if (fast.next != null) {
+                    fast = fast.next.next;
+                } else {
+                    return null;
+                }
+                if (fast == slow) {
+                    ListNode ptr = head;
+                    while (ptr != slow) {
+                        ptr = ptr.next;
+                        slow = slow.next;
+                    }
+                    return ptr;
+                }
             }
-            ListNode find = new ListNode(0);
-            find.next = head;
-
-            while (find.next != slow) {
-                find = find.next;
-            }
-
-
-            return find;
+            return null;
         }
     }
 }
