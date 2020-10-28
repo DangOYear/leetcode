@@ -11,9 +11,7 @@ public class LeetCode1207 {
             Map<Integer, Integer> map = new HashMap<>();
             Set<Integer> set = new HashSet<>();
             for (int num : arr) {
-                if (!map.containsKey(num))
-                    map.put(num, 0);
-                map.put(num, map.get(num) + 1);
+                map.put(num, map.getOrDefault(num, 0) + 1);
             }
             for (Integer value : map.values()) {
                 if (set.contains(value))
