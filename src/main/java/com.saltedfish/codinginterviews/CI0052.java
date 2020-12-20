@@ -1,7 +1,7 @@
 package com.saltedfish.codinginterviews;
 
-import src.algorithms.baseclass.ListNode;
 
+import com.saltedfish.baseclass.ListNode;
 
 /**
  *

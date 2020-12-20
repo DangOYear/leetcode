@@ -1,6 +1,7 @@
 package com.saltedfish.algorithms;
 
-import src.algorithms.baseclass.TreeNode;
+import com.saltedfish.baseclass.TreeNode;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -51,8 +52,9 @@ public class LeetCode0501 {
 
 
         public void dfs(TreeNode node) {
-            if (node == null)
+            if (node == null) {
                 return;
+            }
             dfs(node.left);
             update(node.val);
             dfs(node.right);

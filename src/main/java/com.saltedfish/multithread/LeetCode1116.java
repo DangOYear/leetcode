@@ -2,6 +2,12 @@ package com.saltedfish.multithread;
 
 import java.util.concurrent.Semaphore;
 
+class IntConsumer {
+    public int accept(int val) {
+        return 1;
+    }
+}
+
 public class LeetCode1116 {
     class ZeroEvenOdd {
         private int n;

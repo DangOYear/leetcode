@@ -1,8 +1,9 @@
 package com.saltedfish.algorithms;
 
+import com.saltedfish.baseclass.TreeNode;
+
 import java.util.*;
 
-import src.algorithms.baseclass.TreeNode;
 
 public class LeetCode0098 {
 /**

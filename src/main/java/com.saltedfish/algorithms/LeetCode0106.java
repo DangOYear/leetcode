@@ -1,6 +1,7 @@
 package com.saltedfish.algorithms;
 
-import src.algorithms.baseclass.TreeNode;
+
+import com.saltedfish.baseclass.TreeNode;
 
 public class LeetCode0106 {
     /**
@@ -14,7 +15,7 @@ public class LeetCode0106 {
      */
     class Solution {
         public TreeNode buildTree(int[] inorder, int[] postorder) {
-
+            return null;
         }
 
     }

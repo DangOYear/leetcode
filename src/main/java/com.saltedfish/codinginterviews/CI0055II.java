@@ -1,7 +1,7 @@
 package com.saltedfish.codinginterviews;
 
 
-import src.algorithms.baseclass.TreeNode;
+import com.saltedfish.baseclass.TreeNode;
 
 /**
  *
@@ -43,12 +43,17 @@ public class CI0055II {
         }
 
         private int recur(TreeNode node) {
-            if (node == null)
+            if (node == null) {
                 return 0;
+            }
             int left = recur(node.left);
-            if (left == -1) return -1;
+            if (left == -1) {
+                return -1;
+            }
             int right = recur(node.right);
-            if (right == -1) return -1;
+            if (right == -1) {
+                return -1;
+            }
             return Math.abs(left - right) < 2 ? Math.max(left, right) + 1 : -1;
         }
     }

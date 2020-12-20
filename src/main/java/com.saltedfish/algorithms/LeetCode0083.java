@@ -1,7 +1,9 @@
 package com.saltedfish.algorithms;
 
 
-import src.algorithms.baseclass.ListNode;
+
+
+import com.saltedfish.baseclass.ListNode;
 
 import java.util.List;
 
@@ -19,10 +21,11 @@ public class LeetCode0083 {
         public ListNode deleteDuplicates(ListNode head) {
             ListNode cur = head;
             while (cur != null && cur.next != null) {
-                if (cur.val == cur.next.val)
+                if (cur.val == cur.next.val) {
                     cur.next = cur.next.next;
-                else
+                } else {
                     cur = cur.next;
+                }
             }
             return head;
         }

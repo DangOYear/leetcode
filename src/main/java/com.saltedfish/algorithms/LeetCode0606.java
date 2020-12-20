@@ -1,6 +1,7 @@
 package com.saltedfish.algorithms;
 
-import src.algorithms.baseclass.TreeNode;
+
+import com.saltedfish.baseclass.TreeNode;
 
 public class LeetCode0606 {
     /**
@@ -14,12 +15,15 @@ public class LeetCode0606 {
      */
     class Solution {
         public String tree2str(TreeNode t) {
-            if (t == null)
+            if (t == null) {
                 return "";
-            if (t.left == null && t.right == null)
+            }
+            if (t.left == null && t.right == null) {
                 return t.val + "";
-            if (t.right == null)
+            }
+            if (t.right == null) {
                 return t.val + "(" + tree2str(t.left) + ")";
+            }
 
             return t.val + "(" + tree2str(t.left) + ")(" + tree2str(t.right) + ")";
 

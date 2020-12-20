@@ -1,6 +1,7 @@
 package com.saltedfish.interview.binarytree;
 
-import src.algorithms.baseclass.TreeNode;
+
+import com.saltedfish.baseclass.TreeNode;
 
 /**
  * 前序遍历

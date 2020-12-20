@@ -1,6 +1,7 @@
 package com.saltedfish.crackingthecodinginterview;
 
-import src.algorithms.baseclass.TreeNode;
+
+import com.saltedfish.baseclass.TreeNode;
 
 public class CTCI0410 {
     /**
@@ -15,11 +16,13 @@ public class CTCI0410 {
     class Solution {
 
         public boolean isSame(TreeNode t1, TreeNode t2) {
-            if (t1 == null && t2 == null)
+            if (t1 == null && t2 == null) {
                 return true;
+            }
 
-            if (t1 == null || t2 == null)
+            if (t1 == null || t2 == null) {
                 return false;
+            }
 
             return t1.val == t2.val && isSame(t1.left, t2.left) && isSame(t1.right, t2.right);
         }

@@ -1,8 +1,6 @@
 package com.saltedfish.algorithms;
 
-
-import src.algorithms.baseclass.ListNode;
-
+import com.saltedfish.baseclass.ListNode;
 
 public class LeetCode1290 {
     /**

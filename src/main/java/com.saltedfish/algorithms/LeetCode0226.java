@@ -1,6 +1,7 @@
 package com.saltedfish.algorithms;
 
-import src.algorithms.baseclass.TreeNode;
+
+import com.saltedfish.baseclass.TreeNode;
 
 public class LeetCode0226 {
     /**
@@ -14,8 +15,9 @@ public class LeetCode0226 {
      */
     class Solution {
         public TreeNode invertTree(TreeNode root) {
-            if (root == null)
+            if (root == null) {
                 return null;
+            }
             TreeNode left = invertTree(root.left);
             TreeNode right = invertTree(root.right);
             root.left = right;

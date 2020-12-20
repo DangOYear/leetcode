@@ -1,6 +1,7 @@
 package com.saltedfish.crackingthecodinginterview;
 
-import src.algorithms.baseclass.ListNode;
+
+import com.saltedfish.baseclass.ListNode;
 
 public class CTCI0203 {
 

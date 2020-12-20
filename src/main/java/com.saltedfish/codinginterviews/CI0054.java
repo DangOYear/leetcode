@@ -1,6 +1,8 @@
 package com.saltedfish.codinginterviews;
 
-import src.algorithms.baseclass.TreeNode;
+
+
+import com.saltedfish.baseclass.TreeNode;
 
 import java.util.Stack;
 
@@ -26,8 +28,9 @@ public class CI0054 {
 
                 TreeNode node = stack.pop();
                 k--;
-                if (k == 0)
+                if (k == 0) {
                     return node.val;
+                }
 
                  root = node.left;
             }

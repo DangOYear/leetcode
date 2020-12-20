@@ -1,6 +1,7 @@
 package com.saltedfish.codinginterviews;
 
-import src.algorithms.baseclass.TreeNode;
+
+import com.saltedfish.baseclass.TreeNode;
 
 import java.util.*;
 
@@ -18,8 +19,9 @@ public class CI0032III {
         public List<List<Integer>> levelOrder(TreeNode root) {
             List<List<Integer>> res = new ArrayList<>();
 
-            if (root == null)
+            if (root == null) {
                 return res;
+            }
 
             Queue<TreeNode> queue = new LinkedList<>();
 
@@ -33,8 +35,12 @@ public class CI0032III {
                 for (int i = queue.size() - 1; i >= 0; --i) {
                     TreeNode node = queue.poll();
                     level.add(node.val);
-                    if (node.left != null)  queue.offer(node.left);
-                    if (node.right != null) queue.offer(node.right);
+                    if (node.left != null) {
+                        queue.offer(node.left);
+                    }
+                    if (node.right != null) {
+                        queue.offer(node.right);
+                    }
                 }
 
                 if (reverse) {

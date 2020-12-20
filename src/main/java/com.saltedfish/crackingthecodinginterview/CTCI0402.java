@@ -1,6 +1,7 @@
 package com.saltedfish.crackingthecodinginterview;
 
-import src.algorithms.baseclass.TreeNode;
+
+import com.saltedfish.baseclass.TreeNode;
 
 public class CTCI0402 {
     /**

@@ -1,6 +1,7 @@
 package com.saltedfish.codinginterviews;
 
-import src.algorithms.baseclass.TreeNode;
+
+import com.saltedfish.baseclass.TreeNode;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

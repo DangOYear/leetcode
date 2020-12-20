@@ -1,6 +1,5 @@
 package com.saltedfish.algorithms;
 
-import src.algorithms.baseclass.Node;
 
 public class LeetCode0117 {
     // Definition for a Node.

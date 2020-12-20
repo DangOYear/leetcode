@@ -1,6 +1,7 @@
 package com.saltedfish.algorithms;
 
-import src.algorithms.baseclass.ListNode;
+
+import com.saltedfish.baseclass.ListNode;
 
 /**
  * 148. 排序链表

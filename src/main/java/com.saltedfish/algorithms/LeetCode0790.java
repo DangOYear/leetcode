@@ -28,7 +28,7 @@ package com.saltedfish.algorithms;
 public class LeetCode0790 {
     class Solution {
         public int numTilings(int N) {
-
+            return -1;
         }
     }
 }

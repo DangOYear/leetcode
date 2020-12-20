@@ -1,6 +1,6 @@
 package com.saltedfish.codinginterviews;
 
-import src.algorithms.baseclass.TreeNode;
+import com.saltedfish.baseclass.TreeNode;
 
 public class CI0027 {
     /**
@@ -14,8 +14,9 @@ public class CI0027 {
      */
     class Solution {
         public TreeNode mirrorTree(TreeNode root) {
-            if (root == null)
+            if (root == null) {
                 return null;
+            }
 
             TreeNode temp = root.left;
             root.left = root.right;

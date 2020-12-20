@@ -1,7 +1,7 @@
 package com.saltedfish.algorithms;
 
 
-import src.algorithms.baseclass.TreeNode;
+import com.saltedfish.baseclass.TreeNode;
 
 public class LeetCode0100 {
     /**

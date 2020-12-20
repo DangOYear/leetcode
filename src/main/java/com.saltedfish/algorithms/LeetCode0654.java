@@ -1,7 +1,7 @@
 package com.saltedfish.algorithms;
 
 
-import src.algorithms.baseclass.TreeNode;
+import com.saltedfish.baseclass.TreeNode;
 
 public class LeetCode0654 {
     /**
@@ -15,8 +15,9 @@ public class LeetCode0654 {
      */
     class Solution {
         public TreeNode construct(int[] nums, int left, int right) {
-            if (left == right)
+            if (left == right) {
                 return null;
+            }
 
             int max_pos = max(nums, left, right);
             TreeNode root = new TreeNode(nums[max_pos]);
@@ -30,8 +31,9 @@ public class LeetCode0654 {
             int max_pos = left;
 
             for (int i = left; i < right; i++) {
-                if (nums[i] > nums[max_pos])
+                if (nums[i] > nums[max_pos]) {
                     max_pos = i;
+                }
             }
             return max_pos;
         }

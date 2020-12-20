@@ -1,7 +1,7 @@
 package com.saltedfish.codinginterviews;
 
-import src.algorithms.baseclass.TreeNode;
 
+import com.saltedfish.baseclass.TreeNode;
 
 /**
  * 面试题07. 重建二叉树
@@ -40,8 +40,9 @@ public class CI0007 {
      */
     class Solution {
         public TreeNode build(int[] preorder, int preL, int preR, int[] inorder, int inL, int inR) {
-            if (preL > preR)
+            if (preL > preR) {
                 return null;
+            }
 
             if (preL == preR) {
                 return new TreeNode(preorder[preL]);
