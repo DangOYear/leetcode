@@ -3,15 +3,13 @@ package com.saltedfish.algorithms;
 public class LeetCode0172 {
     class Solution {
         public int trailingZeroes(int n) {
-            int res = 0;
-            for (int i = 5; i <= n; i = i + 5) {
-                int N = i;
-                while (N % 5 ==  0) {
-                    ++res;
-                    N /= 5;
-                }
+            int zeroCount = 0;
+            long currentMul = 5;
+            while (n >= currentMul) {
+                zeroCount += (n / currentMul);
+                currentMul *= 5;
             }
-            return res;
+            return zeroCount;
         }
     }
 }
