@@ -7,10 +7,11 @@ public class LeetCode1221 {
             int left = 0;
             int right = 0;
             for (int i = 0; i < s.length(); i++) {
-                if (s.charAt(i) == 'L')
+                if (s.charAt(i) == 'L') {
                     ++left;
-                else
+                } else {
                     ++right;
+                }
                 if (left == right) {
                     ++count;
                     left = 0;
