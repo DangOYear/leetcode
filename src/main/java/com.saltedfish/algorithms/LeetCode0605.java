@@ -31,7 +31,7 @@ package com.saltedfish.algorithms;
 public class LeetCode0605 {
     class Solution {
         public boolean canPlaceFlowers(int[] flowerbed, int n) {
-
+            return false;
         }
     }
 }
