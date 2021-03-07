@@ -36,14 +36,12 @@ package com.saltedfish.algorithms;
 
 public class LeetCode0062 {
     class Solution {
-        public int factorial(int n) {
-            if (n <= 1)
-                return 1;
-            return n * factorial(n - 1);
-        }
         public int uniquePaths(int m, int n) {
-            return factorial(m + n - 2) / factorial(m - 1) / factorial(n - 1);
+            long res = 1;
+            for (int i = n, j = 1; j < m; ++i, ++j) {
+                res = res * i / j;
+            }
+            return (int) res;
         }
     }
-
 }
