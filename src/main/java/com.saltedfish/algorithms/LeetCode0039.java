@@ -1,24 +1,34 @@
 package com.saltedfish.algorithms;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class LeetCode0039 {
-
     class Solution {
-        public int majorityElement(int[] nums) {
-            int count = 1;
-            int major = nums[0];
+        public List<List<Integer>> combinationSum(int[] candidates, int target) {
+            List<List<Integer>> res = new ArrayList<>();
+            List<Integer> combination = new ArrayList<>();
+            dfs(candidates, target, combination, res, 0);
+            return res;
+        }
 
-            for (int i = 1; i < nums.length; ++i) {
-                if (nums[i] == major) {
-                    ++count;
-                }else {
-                    --count;
-                }
-                if (count == 0) {
-                    count = 1;
-                    major = nums[i];
-                }
+        private void dfs(int[] candidates, int target, List<Integer> combination, List<List<Integer>> res, int index) {
+            if (index == candidates.length) {
+                return;
             }
-            return major;
+
+            if (target == 0) {
+                res.add(new ArrayList<>(combination));
+                return;
+            }
+
+            dfs(candidates, target, combination, res, index + 1);
+
+            if (target - candidates[index] >= 0) {
+                combination.add(candidates[index]);
+                dfs(candidates, target - candidates[index], combination, res, index);
+                combination.remove(combination.size() - 1);
+            }
         }
     }
 
