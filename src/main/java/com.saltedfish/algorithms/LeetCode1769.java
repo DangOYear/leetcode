@@ -15,6 +15,7 @@ public class LeetCode1769 {
             for (int i = 1; i < boxes.length(); ++i) {
 
             }
+            return new int[]{};
         }
     }
 }
