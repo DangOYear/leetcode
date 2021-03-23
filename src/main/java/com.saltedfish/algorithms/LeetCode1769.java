@@ -13,9 +13,21 @@ public class LeetCode1769 {
                 ++left;
             }
             for (int i = 1; i < boxes.length(); ++i) {
-
+                if (boxes.charAt(i) == '1') {
+                    ++right;
+                    total += i;
+                }
             }
-            return new int[]{};
+            res[0] = total;
+            for (int i = 1; i < boxes.length(); i++) {
+                total = total + left - right;
+                if (boxes.charAt(i) == '1') {
+                    left++;
+                    right--;
+                }
+                res[i] = total;
+            }
+            return res;
         }
     }
 }
