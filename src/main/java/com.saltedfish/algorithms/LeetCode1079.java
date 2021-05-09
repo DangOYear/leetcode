@@ -1,6 +1,5 @@
 package com.saltedfish.algorithms;
 
-import org.junit.Assert;
 
 /**
  * @author SaltedFish
@@ -32,7 +31,5 @@ public class LeetCode1079 {
 
     public static void main(String[] args) {
         LeetCode1079.Solution solution = new LeetCode1079().new Solution();
-        Assert.assertEquals(8, solution.numTilePossibilities("AAB"));
-        Assert.assertEquals(188, solution.numTilePossibilities("AAABBC"));
     }
 }
