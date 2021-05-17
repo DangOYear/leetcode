@@ -14,8 +14,51 @@ public class LeetCode0993 {
      * }
      */
     class Solution {
+
+
+        private int x;
+        private TreeNode xParent;
+        private int xDepth;
+        private boolean xFound;
+
+        private int y;
+        private TreeNode yParent;
+        private int yDepth;
+        private boolean yFound;
+
         public boolean isCousins(TreeNode root, int x, int y) {
-            return true;
+            this.x = x;
+            this.y = y;
+            dfs(root, 0, null);
+            return xDepth == yDepth && xParent != yParent;
+        }
+
+        private void dfs(TreeNode node, int depth, TreeNode parent) {
+            if (node == null) {
+                return;
+            }
+
+            if (node.val == x) {
+                xParent = parent;
+                xDepth = depth;
+                xFound = true;
+            } else if (node.val == y) {
+                yParent = parent;
+                yDepth = depth;
+                yFound = true;
+            }
+
+            if (xFound && yFound) {
+                return;
+            }
+
+            dfs(node.left, depth + 1, node);
+
+            if (xFound && yFound) {
+                return;
+            }
+
+            dfs(node.right, depth + 1, node);
         }
     }
 }
