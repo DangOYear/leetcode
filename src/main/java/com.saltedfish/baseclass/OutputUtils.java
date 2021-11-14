@@ -1,5 +1,7 @@
 package com.saltedfish.baseclass;
 
+import java.util.List;
+
 /**
  * @author SaltedFish
  * @date 2021/2/12
@@ -13,6 +15,16 @@ public class OutputUtils {
             if (i != nums.length - 1) {
                 System.out.print(",");
             }
+        }
+        System.out.print("]");
+    }
+
+    public static void printListNode(ListNode head) {
+        System.out.println("链表");
+        System.out.print("[");
+        while (head != null) {
+            System.out.print(head.val + ",");
+            head = head.next;
         }
         System.out.print("]");
     }
