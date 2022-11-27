@@ -39,7 +39,7 @@ public class LeetCode0886 {
 
 
         public boolean possibleBipartition(int n, int[][] dislikes) {
-            
+            return false;
         }
     }
 
