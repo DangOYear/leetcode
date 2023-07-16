@@ -1,4 +1,3 @@
-# LeetCode Java
+# LeetCode C++
 
-+ LeetCode Java刷题
-+ 20201016了新增了面经中的题
++ LeetCode C++刷题
