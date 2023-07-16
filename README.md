@@ -1,4 +1,4 @@
-# LeetCode Java
+# LeetCode
 
 - branch java
 - branch cpp
