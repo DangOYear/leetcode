@@ -30,12 +30,12 @@ public class LeetCode0003 {
         }
 
         public int allocate(int size, int mID) {
-
+            return -1;
         }
 
 
         public int free(int mID) {
-            List<BlockListNode> occupyList.get(mID)
+            return -1;
        }
     }
 
